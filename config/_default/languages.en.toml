@@ -5,7 +5,7 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = "Nikki Stevens"
+title = "Dr. Nikki Stevens"
 # logo = "img/logo.png"
 description = ""
 copyright = "&copy; 2022 Nikki Stevens"
@@ -13,7 +13,7 @@ copyright = "&copy; 2022 Nikki Stevens"
 dateFormat = "2 January 2006"
 
 [author]
-  name = "Nikki Stevens"
+  name = "Dr. Nikki Stevens"
   image = "img/blowfish_logo.png"
   headline = "Researcher, Technical Architect, Open Source Contributor"
   bio = ""

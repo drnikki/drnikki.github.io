@@ -1,11 +1,12 @@
 ---
 layout: profile
+date: 2022-09-03
 ---
 
 
 # Hi!
 
-Hi!  I'm Dr. Nikki Stevens. I am a researcher, a technical architect, and an open source community member. I am currently a researcher at Dartmouth College, working in the Digital Justice Lab.
+Hi!  I'm Dr. Nikki Stevens. I am a researcher, a technical architect, and an open source community member. I am currently a researcher at Dartmouth College, working in the [Digital Justice Lab](https://digitaljusticelab.com/).
 
 As a **researcher**, I have a PhD in the Human and Social Dimensions of Science and Technology (broadly, a Science and Technology Studies program).  My research focuses on how software engineering practices reinforce systems of power.  In other words, my research explains, from the code and database up, how data is biased or algorithms can cause harm to people.  Read more about my [current research](/research/).
 
