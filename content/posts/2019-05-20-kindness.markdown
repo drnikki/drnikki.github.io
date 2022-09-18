@@ -1,0 +1,16 @@
+---
+layout: post
+title: "On developing a practice of acknowledgment"
+date: 2019-05-20 10:25
+comments: true
+published: true
+categories: [conferences]
+---
+
+This week I attended _three_ conferences - [The Rightful Place of Science](https://sfis.asu.edu/news-events/events/cspo-20th), [Digital Democracies](http://www.sfu.ca/digital-democracies/2019-conference/program.html), and [HASTAC 2019](http://www.hastac2019.org/).  The three were very different, but each gave me an opportunity to interact with other grad students and with professors of all levels.   It was wonderful and exhausting. At HASTAC 2019, the plenary talks invoked themes of connection, of community.  Speakers cited specifically where they learned a concept ("from an elder in Treaty 3"), why they used a particular framework (because it was used "by an elder who I'm accountable to"), and made a point to acknowledge the roles of other people in all of their work.  
+
+Hearing these talks, at the end of a _very_ long week, I felt the absence of a practice of acknowledgement in my own work.  While I constantly engage with scholars' academic productions and trace genealogies of ideas, I do not have a similar citational practice for the various labors and generosities that directly and materially contribute to my work.
+
+This post is a first inchoate attempt to remedy that absence by publicly acknowledging the folks who contributed to this specific and time-bound event (my engineering brain likes boundaries). I have an incomplete list of people: [Tonia Sutherland](https://toniasutherland.com/), [Marika Cifor](https://marikacifor.com/), [Nilofar Salehi](http://niloufar.org/), [Anna Lauren Hoffman](https://www.annaeveryday.com/), [Matthew Bui](https://twitter.com/matthew_bui?lang=en), [Lisa Nakamura](https://lisanakamura.net/), [Marisa Duarte](http://marisaduarte.net/), [Katina Michael](https://www.katinamichael.com/), [Emma Frow](https://isearch.asu.edu/profile/2564909), [Brinker Ferguson](https://www.brinkerferguson.com/) and [Jacque Wernimont](https://jwernimont.com/), and as I travel home, they are on my mind as contributors.
+
+My engineering mind wants to categorize the generosities, to discuss generosities of kindness, of attention, of time; to separate the acts that landed on my heart and feelings and the acts that were competence, simply and well done, and which smoothed the path forward for many things.  Engineering mind is not always correct. I don't know what my academic future is; I've seen the quitlit and the stories of folks leaving because of many forms of violence; academia is not built [for people like me](https://www.insidehighered.com/advice/2016/07/15/challenge-being-transgender-academic-job-market-essay).   Though I may exist at institutions, I can resist institutionalization and remain attentive to the almost-uncountable number of small kindnesses that make my existence in this space possible.  

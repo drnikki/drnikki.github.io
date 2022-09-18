@@ -1,0 +1,40 @@
+baseURL: 'http://nikkistevens.com/'
+languageCode: en-us
+title: Nikki Stevens
+theme: blowfish
+menu:
+    main:
+        - identifier: categories
+          name: categories
+          url: /categories/
+          weight: 10
+        - identifier: tags
+          name: tags
+          url: /tags/
+          weight: 20
+        - identifier: about
+          name: about
+          url: /about/
+          weight: 30
+        - identifier: blog
+          name: blog
+          url: /posts/
+          weight: 40
+        - identifier: open-source
+          name: open source
+          url: /open-source/
+          weight: 50
+        - identifier: research
+          name: research
+          url: /research/
+          weight: 50
+    
+
+Site:
+  GoogleAnalytics: UA-18227202-1
+
+
+params:
+  ShowCodeCopyButtons: true
+  disableSpecial1stPost: true
+  analytics.google.SiteVerificationTag: UA-18227202-1
