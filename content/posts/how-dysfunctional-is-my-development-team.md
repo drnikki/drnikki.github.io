@@ -1,14 +1,13 @@
 ---
-layout: post
 title: "How dysfunctional is my development team?"
-date: 2013-01-16 16:12
+date: 2013-01-16
 comments: true
 ---
 
-Next Friday, I'll be presenting at [SandCamp][] on [best practices for teams][]. Naturally, I’ve been thinking about what makes a good team in general, and a good software development team specifically.  For most of my career, I’ve been part of development teams at development shops or technical companies.  Those places already had forward-thinking technical people making infrastructure decisions and crafting the technical culture (for better or worse).  By the time I came along, most of the kinks had been worked out.
+Next Friday, I'll be presenting at [SandCamp](http://sandcamp.org) on [best practices for teams](https://sandcamp.org/best-practices-teams). Naturally, I’ve been thinking about what makes a good team in general, and a good software development team specifically.  For most of my career, I’ve been part of development teams at development shops or technical companies.  Those places already had forward-thinking technical people making infrastructure decisions and crafting the technical culture (for better or worse).  By the time I came along, most of the kinks had been worked out.
 
 But I don't work at a technical company right now - I work at an advertising agency.
-<!-- more -->
+
 
 The more time I spend here, the more I realize: advertising agencies are **the exact opposite** of technical companies.  They’re filled with forward-thinking non-technical people. Most agencies used to be print/media focused. But, times change and agencies change along with them.  Now most advertising agencies have in-house development teams. A lot of these agencies brand themselves as bleeding-edge and interactive-focused.  But those same people who have brilliant creative visions for agencies are rarely able to nurture a technical department. Developers at ad agencies often become after-thoughts. After the brief is done, a producer will get a developer involved to "execute the vision." By that time, it's often too late to correct flaws in the design, or point out potential architectural pitfalls.
 
@@ -30,13 +29,8 @@ Answer *True* or *False* to each of the following statements:
 If you answered *true* to most of the statements above, congratulations! There is nothing more to do - rejoice in your awesome team and go build cool stuff!
 
 If you answered *false* to most of the statements above, it's time for an intervention.  Personally, I'm working to create an infrastructure and cultural shift that ensures that everyone on my team will be able to answer *true* to every statement.
-I'll be writing more about it, but if you're doing the same, [let's talk].
+I'll be writing more about it, but if you're doing the same, let's talk.
 
 
-*Did I miss anything?  Tell me! [@drnikki][]*
+*Did I miss anything?  Tell me! [@drnikki](http://twitter.com/drnikki)*
 
-
-[best practices for teams]: https://sandcamp.org/best-practices-teams
-[SandCamp]: http://sandcamp.org
-[@drnikki]: http://twitter.com/drnikki
-[let's talk]: http://twitter.com/drnikki

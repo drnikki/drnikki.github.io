@@ -1,10 +1,7 @@
 ---
-layout: post
-title: "Cyborg making"
-date: 2018-03-16 10:25
-comments: true
+title: Making Cyborgs
+date: 2018-03-16
 published: true
-categories: [open-source-phd, cyborgs]
 ---
 
 Every Friday, my cohort and I attend HSD602, the second half of our year-long seminar on the foundations of <a href="https://en.wikipedia.org/wiki/Science,_technology_and_society">STS</a>.  Each week, a different student leads class and has about an hour to decide what the class will do and how we'll discuss this week's readings.  This past Friday was my week.

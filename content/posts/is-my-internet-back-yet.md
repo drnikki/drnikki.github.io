@@ -1,6 +1,6 @@
 ---
 title: "Is my internet back yet?"
-date: 2012-12-11 16:25
+date: 2012-12-11
 ---
 
 One of my favorite things about being a programmer is that I can figure out ways to solve little problems.  Little non-problems, even.  Over the last week, there have been Time Warner internet outages in my neighborhood.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Recruiting engineers with your startup's developer blog."
-date: 2013-03-12 10:00
+date: 2013-03-12
 comments: true
 keywords: startups, recruiting, engineering, developer blog, dev blog
 description: How to write a good developer blog for startups
@@ -85,7 +85,7 @@ If you don't answer yes to at least a few of those questions, you may have a dev
 
 New technology, hackathons, nuanced challenges, that list of steps from above - the more you start thinking "Can I write a blog about this?" the more you'll find things to blog about, I promise.
 
-###Yes, but...
+### Yes, but...
 
 Yes, there is always "money" work to do. There are always projects that need attention. There is always technical debt that you could be paying off. Is having an active dev blog a worthwhile use of the business's time?  It is.  Go back and re-read the "what's in it for me section."  It's going to be nearly impossible for developers *not* to benefit from involvement in this process. I read somewhere that developers can have three years of experience, or can have the same year three times.  This is one way you can guarantee that your developers are growing.  
 
