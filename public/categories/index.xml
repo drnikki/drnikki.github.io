@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Nikki Stevens</title>
+    <link>https://nikkistevens.com/categories/</link>
+    <description>Recent content in Categories on Nikki Stevens</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2022 Nikki Stevens</copyright>
+    <lastBuildDate>Sat, 10 Dec 2011 00:00:00 +0000</lastBuildDate><atom:link href="https://nikkistevens.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>drupal</title>
+      <link>https://nikkistevens.com/categories/drupal/</link>
+      <pubDate>Sat, 10 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://nikkistevens.com/categories/drupal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>conferences</title>
+      <link>https://nikkistevens.com/categories/conferences/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nikkistevens.com/categories/conferences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cyborgs</title>
+      <link>https://nikkistevens.com/categories/cyborgs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nikkistevens.com/categories/cyborgs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open-source-phd</title>
+      <link>https://nikkistevens.com/categories/open-source-phd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nikkistevens.com/categories/open-source-phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>skype</title>
+      <link>https://nikkistevens.com/categories/skype/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nikkistevens.com/categories/skype/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sqlite3</title>
+      <link>https://nikkistevens.com/categories/sqlite3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nikkistevens.com/categories/sqlite3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>writing-in-the-open</title>
+      <link>https://nikkistevens.com/categories/writing-in-the-open/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nikkistevens.com/categories/writing-in-the-open/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
