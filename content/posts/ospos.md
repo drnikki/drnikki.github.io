@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OSPO 101
+title: "OSPO 101"
 date: 2023-05-18
 aliases:
 - /open-source/ospo
@@ -41,3 +41,5 @@ I made a public and continually updated [Zotero Library](https://www.zotero.org/
 [VERSO](https://verso.w3.uvm.edu/), the OSPO at University of Vermont, has compiled a [reading list](https://verso.w3.uvm.edu/reading-list/). 
 
 Open@RIT has a [Zotero library](https://www.zotero.org/groups/2725709/rit_open_work_resources/library) of resources about open work. [source](https://todogroup.org/guides/casestudies/rit/)
+
+[Verso Playbook](https://verso.w3.uvm.edu/verso-playbook/)
