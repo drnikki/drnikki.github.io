@@ -3,6 +3,7 @@ layout: post
 title: OSPO 101
 date: 2023-05-18
 draft: false
+published: true
 ---
 
 The information below is part of a larger conversation about Open Source Program (or Project) Offices (OSPOs)in academic (university) settings.  
