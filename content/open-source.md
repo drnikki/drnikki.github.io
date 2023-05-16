@@ -4,7 +4,7 @@ date: 2022-09-18
 published: true
 ---
 
-
+I have several active or otherwise on-going open source projects.  I'm also currently doing some thinking about university open source project offices.  [More about OSPOs...](/posts/ospos)
 
 ## Open Demographics
 The [Open Demographics](https://github.com/drnikki/open-demographics) project is an open-source project designed to help people and teams ask questions about demographic data (gender, sexual orientation, race).  It uses an open source paradigm (community sourced, publicly accessible) to generate a collective consensus on the most inclusive ways to ask questions.  This project is not without it's own political shortcomings and challenges - it's in English, and most contributors are based in the United States.  The community is working to enhance it and expand it to other regions.
