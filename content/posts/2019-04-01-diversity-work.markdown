@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Diversity work"
-date: 2019-02-01 10:25
+date: 2019-02-01
 comments: true
 published: false
-categories: [open-source]
+
 ---
 
 https://twitter.com/Arrianna_Planey/status/1101921259829555204

@@ -1,3 +1,11 @@
+---
+layout: post
+title: "I commit"
+date: 2019-02-01
+comments: true
+published: true
+---
+
 
 Hi. In a way, everything feels terrible [right now](https://www.theguardian.com/us-news/2018/oct/06/brett-kavanaugh-confirmed-us-supreme-court), doesn't it?  I'm pretty tired of feeling terrible, and _super_ tired of feeling like the country is in a new level of shit, when - let's be honest - it's been shit for everyone but white men since the beginning.  I hear a lot of people feeling powerless; folks are tired. Me too, y'all (and #metoo).
 

@@ -2,7 +2,6 @@
 layout: post
 title: OSPO 101
 date: 2023-05-18
-comments: false
 published: true
 ---
 
