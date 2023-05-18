@@ -43,3 +43,8 @@ Open@RIT has a [Zotero library](https://www.zotero.org/groups/2725709/rit_open_w
 [Open@RIT repos](https://opensource.ieee.org/rit)
 
 [OSPO++ guide to setting up a University OSPO](https://ospoplusplus.org/images/resource/Guide-To-Set-Up-A-University-Open-Source-Programs-Office.pdf)
+
+[OSTP policy](https://www.whitehouse.gov/ostp/news-updates/2023/01/11/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-open-and-equitable-research/)
+
+
+[Saint Louis University's OSPO](https://oss-slu.github.io/)
