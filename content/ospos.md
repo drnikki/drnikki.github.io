@@ -13,13 +13,12 @@ take these, and grab the objectives and put them into a table or sheet or someth
 
 
 ### Ways to Contribute
-[VERSO] has compiled a list of [ways to contribute](https://verso.w3.uvm.edu/start-contributing/) to open source, especially if you are not a coder.
+VERSO has compiled a list of [ways to contribute](https://verso.w3.uvm.edu/start-contributing/) to open source, especially if you are not a coder.
 
 ### What other universities/companies/municipalities have OSPOs?
-- OSPO++'s [list of member organizations(https://ospoplusplus.org/about/members/)] 
+- OSPO++'s [list of member organizations](https://ospoplusplus.org/about/members/) 
 - The interactive [OSPO Landscape Map](https://landscape.todogroup.org/card-mode?category=ospo-adopter&grouping=category) is a map of open source program offices, supporters, and associates. 
 
-### Open Source by the numbers
 
 ### Case Studies
 - [TODO Group has a list](https://todogroup.org/guides/#ospo-case-studies)
