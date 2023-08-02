@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Open Gov Vermont on Dr. Nikki Stevens</title>
+    <link>https://nikkistevens.com/series/open-gov-vermont/</link>
+    <description>Recent content in Open Gov Vermont on Dr. Nikki Stevens</description>
+    <image>
+      <title>Dr. Nikki Stevens</title>
+      <url>https://nikkistevens.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://nikkistevens.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 02 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nikkistevens.com/series/open-gov-vermont/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Gov Vermont: Open Meeting Law</title>
+      <link>https://nikkistevens.com/posts/open-gov-vt-open-meeting-law/</link>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nikkistevens.com/posts/open-gov-vt-open-meeting-law/</guid>
+      <description>There have been a lot of questions lately about who gets to speak (and otherwise participate) in SelectBoard meetings. Here&amp;rsquo;s what I know:
+The Selectboard is governed by Vermont&amp;rsquo;s Open Meeting Law (The specific statute - 1 V.</description>
+    </item>
+    
+  </channel>
+</rss>

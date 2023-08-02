@@ -1,1 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Dr. Nikki Stevens</title><link>https://nikkistevens.com/tags/</link><description>Recent content in Tags on Dr. Nikki Stevens</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>&amp;copy; 2022 Nikki Stevens</copyright><lastBuildDate>Thu, 03 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://nikkistevens.com/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>open source</title><link>https://nikkistevens.com/tags/open-source/</link><pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate><guid>https://nikkistevens.com/tags/open-source/</guid><description/></item><item><title>academia</title><link>https://nikkistevens.com/tags/academia/</link><pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate><guid>https://nikkistevens.com/tags/academia/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Dr. Nikki Stevens</title>
+    <link>https://nikkistevens.com/tags/</link>
+    <description>Recent content in Tags on Dr. Nikki Stevens</description>
+    <image>
+      <title>Dr. Nikki Stevens</title>
+      <url>https://nikkistevens.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://nikkistevens.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 03 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://nikkistevens.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>open source</title>
+      <link>https://nikkistevens.com/tags/open-source/</link>
+      <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://nikkistevens.com/tags/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>academia</title>
+      <link>https://nikkistevens.com/tags/academia/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://nikkistevens.com/tags/academia/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

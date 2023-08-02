@@ -1,1 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Series on Dr. Nikki Stevens</title><link>https://nikkistevens.com/series/</link><description>Recent content in Series on Dr. Nikki Stevens</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>&amp;copy; 2022 Nikki Stevens</copyright><lastBuildDate>Sun, 10 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://nikkistevens.com/series/index.xml" rel="self" type="application/rss+xml"/><item><title>Open Source PhD</title><link>https://nikkistevens.com/series/open-source-phd/</link><pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate><guid>https://nikkistevens.com/series/open-source-phd/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Series on Dr. Nikki Stevens</title>
+    <link>https://nikkistevens.com/series/</link>
+    <description>Recent content in Series on Dr. Nikki Stevens</description>
+    <image>
+      <title>Dr. Nikki Stevens</title>
+      <url>https://nikkistevens.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://nikkistevens.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 02 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nikkistevens.com/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Gov Vermont</title>
+      <link>https://nikkistevens.com/series/open-gov-vermont/</link>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nikkistevens.com/series/open-gov-vermont/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Source PhD</title>
+      <link>https://nikkistevens.com/series/open-source-phd/</link>
+      <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://nikkistevens.com/series/open-source-phd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,1 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>open source on Dr. Nikki Stevens</title><link>https://nikkistevens.com/tags/open-source/</link><description>Recent content in open source on Dr. Nikki Stevens</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>&amp;copy; 2022 Nikki Stevens</copyright><lastBuildDate>Thu, 03 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://nikkistevens.com/tags/open-source/index.xml" rel="self" type="application/rss+xml"/><item><title>Drupal and demographic information</title><link>https://nikkistevens.com/posts/drupal-open-demographics/</link><pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate><guid>https://nikkistevens.com/posts/drupal-open-demographics/</guid><description>This is just a quick overview post on what&amp;rsquo;s happening with Drupal.org (owned by the Drupal Association) collecting demographic information on it&amp;rsquo;s members. The current proposal is that the user profile form will have fields at least for gender and &amp;ldquo;ideally&amp;rdquo; for other demographic categories (race, sexual orientation, etc)</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>open source on Dr. Nikki Stevens</title>
+    <link>https://nikkistevens.com/tags/open-source/</link>
+    <description>Recent content in open source on Dr. Nikki Stevens</description>
+    <image>
+      <title>Dr. Nikki Stevens</title>
+      <url>https://nikkistevens.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://nikkistevens.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 03 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://nikkistevens.com/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Drupal and demographic information</title>
+      <link>https://nikkistevens.com/posts/drupal-open-demographics/</link>
+      <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://nikkistevens.com/posts/drupal-open-demographics/</guid>
+      <description>This is just a quick overview post on what&amp;rsquo;s happening with Drupal.org (owned by the Drupal Association) collecting demographic information on it&amp;rsquo;s members. The current proposal is that the user profile form will have fields at least for gender and &amp;ldquo;ideally&amp;rdquo; for other demographic categories (race, sexual orientation, etc)</description>
+    </item>
+    
+  </channel>
+</rss>
