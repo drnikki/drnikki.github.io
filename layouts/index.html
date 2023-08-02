@@ -3,7 +3,7 @@
 {{ define "main" }}
 <main aria-role="main">
   <header class="homepage-header max-w-prose">
-    <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">{{.Title}}</h1>
+    <h2 class="mt-0  font-extrabold text-neutral-900 dark:text-neutral">{{.Title}}</h2><br/>
     {{ with .Params.subtitle }}
     <span class="subtitle">{{.}}</span>
     {{ end }}
@@ -11,21 +11,14 @@
 <section class="flex flex-col max-w-full mt-0 prose dark:prose-invert lg:flex-row">
   
 <!-- right col-->
-<div class="order-first px-0 lg:order-last lg:max-w-xs ltr:lg:pl-8 rtl:lg:pr-8">
-    {{ partialCached "author-links.html" . }}
-
-</div>
 
 
-  <div class="homepage-content min-w-0 min-h-0 max-w-prose">
+
+  <div class="post-content">
     <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
     {{.Content}}
   </div>
-  <div>
-    {{ range first 10 .Site.RegularPages }}
-        {{ .Render "summary"}}
-    {{ end }}
-  </div>
+
   </section>
 </main>
 {{ end }}
