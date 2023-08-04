@@ -14,6 +14,6 @@ As a **technical architect** and software engineer, I held titles like Vice Pres
 
 As an **open source contributor**, I have been a member of the Drupal open source community for over 13 years.  In that community, I founded and led a multi-year diversity, equity and inclusion initiative [Drupal Diversity and Inclusion](https://www.drupaldiversity.com/) that is still running under new leadership.  I am the founder and co-maintainer of [Open Demographics](https://github.com/drnikki/open-demographics), a project that helps open source communities evaluate the demographics of their communities.  For my open source work, I have received recognition from The Drupal Community, RedHat, and Google. See [more open source projects](/open-source/).
 
-[My current academic CV]({{< static url="Stevens-22-CV.pdf" >}})
+[My current academic CV]({{< static url="StevensCV.pdf" >}})
 
 ![img](/Stevens-about.jpg#floatright)
