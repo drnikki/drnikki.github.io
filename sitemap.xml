@@ -3,21 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://nikkistevens.com/series/open-gov-vermont/</loc>
-    <lastmod>2023-08-02T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://nikkistevens.com/posts/open-gov-vt-open-meeting-law/</loc>
-    <lastmod>2023-08-02T00:00:00+00:00</lastmod>
+    <loc>https://nikkistevens.com/posts/open-gov-vt-town-health-officer/</loc>
+    <lastmod>2023-08-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://nikkistevens.com/posts/</loc>
-    <lastmod>2023-08-02T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://nikkistevens.com/series/</loc>
+    <lastmod>2023-08-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://nikkistevens.com/posts/open-gov-vt-open-meeting-law/</loc>
     <lastmod>2023-08-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
