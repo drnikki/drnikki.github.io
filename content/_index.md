@@ -16,7 +16,7 @@ I am currently a postdoctoral researcher at MIT, where I work in Catherine D'Ign
 **Upcoming:** 
 - AOIR 2023 in Philadelphia. I'll be on a panel with Sarah Florini, André Brock, and Jessie Daniels (a dream!)
 - Presenting my book proposal for feedback (final draft due 12/20)
-- 
+
 
 **Recently:**
 - [Chan Zuckerberg Initiative's Open Science](https://chanzuckerberg.com/science/meetings/) Meeting.
