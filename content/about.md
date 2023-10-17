@@ -16,4 +16,6 @@ As an **open source contributor**, I have been a member of the Drupal open sourc
 
 [My current academic CV]({{< static url="StevensCV.pdf" >}})
 
+I'd love to hear from you if you want to talk about any of the above, or if you have questions about how to be a trans person in academia. 
+
 ![img](/Stevens-about.jpg#floatright)

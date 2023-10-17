@@ -14,21 +14,24 @@ I am currently a postdoctoral researcher at MIT, where I work in Catherine D'Ign
 <h3>:calendar: Events</h3>
 
 **Upcoming:** 
-- Assisting the [Black Sound Lab](https://blacksoundlab.com/)'s director Allie Martin with an art installation in Colombus, Ohio
-- Teaching a 1-week kids summer web dev / programming camp at [The Space on Main](https://thespaceonmain.org/)
+- AOIR 2023 in Philadelphia. I'll be on a panel with Sarah Florini, André Brock, and Jessie Daniels (a dream!)
+- Presenting my book proposal for feedback (final draft due 12/20)
+- 
 
 **Recently:**
 - [Chan Zuckerberg Initiative's Open Science](https://chanzuckerberg.com/science/meetings/) Meeting.
 - Mentored scholars and artists who submitted to [HASTAC 2023's Creative Futures exhibit](https://hastac2023.org/cfp/). This was a project co-created with [Molly Morin](http://mollymorin.com/)
 - Advising engineering students at [Dartmouth's Thayer School of Engineering](https://engineering.dartmouth.edu/)
-- Finished a large sculptural data visualization for HASTAC - to be installed at Pratt in June [Read about the sculpture and the open source code](https://textile.hastac.hcommons.org/)
+- Finished a large sculptural data visualization for HASTAC - installed at Pratt in June [Read about the sculpture and the open source code](https://textile.hastac.hcommons.org/)
 - Spoke at [The Alan Turing Institute](https://www.turing.ac.uk/) 
+- Assisted the [Black Sound Lab](https://blacksoundlab.com/)'s director Allie Martin with an art installation in Colombus, Ohio.  [write up](https://www.wyso.org/arts-culture/2023-08-21/allie-martins-this-is-a-black-neighborhood-comes-to-columbus)
+- Teaching a 1-week kids summer web dev / programming camp at [The Space on Main](https://thespaceonmain.org/)
 
 
 <h3>:open_book: Research</h3>
 
-- Studying the data activism practices of trans-led groups in the United States
-- Writing my book _Modeling Abolition: Building a New World from the Data of the Old_
+- For/with the Data + Feminism Lab, Studying the data activism practices of trans-led groups in the United States
+- Writing my first monograph: applying abolitionist principles to software creation practices (aka, I ask and answer "are there ways to make software to advance social good?")
 
 <h3>:man_teacher: Teaching</h3>
 

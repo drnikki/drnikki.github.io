@@ -5,10 +5,21 @@ published: true
 ---
 
 
-My research agenda examines how software engineering practices are situated within contemporary political and social systems of power.  This takes two main forms: First, while we might frequently hear accusations of tech being racist or transphobic, we don't often see the technical causes of those outcomes; my research uncovers those causes -- when we know _how_ we are making [bad thing], then we may have an opportunity to do things differently.  Second, I research how open source communities enact the _community_ part of their name. My work seeks to answer questions like: 
+My research agenda examines how software engineering practices are situated within contemporary political and social systems of power.  This takes two main forms: First, while we might frequently hear accusations of tech being racist or transphobic, we don't often see the technical causes of those outcomes; my research uncovers those causes -- when we know _how_ we are making [bad thing], then we may have an opportunity to do things differently.  As an output of that research, I work on new technical practices. In this work, I ask questions like: (these questions are what I'm writing my book about)
+- How can software engineers support social justice causes in their technical practices?
+- How have the ways we make software been shaped by oppressive social forces?
+- What new technical practices can we (engineers) integrate into our pipelines?
+
+Second, I research how open source communities enact the _community_ part of their name. My work here seeks to answer questions like: 
 - How do we collect demographic data about community members, and what do we do with that data once we have it?
 - What actions and processes contribute to a open source community where systemically minoritized members feel safe(r) and welcome? 
 - How can we identify and offset the problematic roots of open source to make contribution accessible to more people? 
+
+Right now, I'm giving talks primarily about the first aspect of my research.  If you invite me for a talk (hint hint), I would give talks titled:
+- "Abolitionist Data Practices: Applying political goals to data structures"
+- "Is my database racist? How white supremacy structures our databases"
+- "The history of data modeling" (this one is more exciting than it sounds, I swear!)
+- "Beyond 'anti-racist' engineering: why anti-racism does not make better software"
 
 
 ## Uncovering the technical causes of technical injustice
