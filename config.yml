@@ -2,13 +2,12 @@ baseURL: 'http://nikkistevens.com/'
 languageCode: en-us
 title: Dr. Nikki Stevens
 theme: PaperMod
+enableEmoji: true
 
 taxonomies:
   category: categories
   series: series
   tag: tag
-
-enableEmoji: true
 
 enableRobotsTXT: true
 buildDrafts: false
