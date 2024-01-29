@@ -25,7 +25,7 @@ params:
   title: Dr. Nikki Stevens
   description: "Dr. Nikki Stevens is a technology researcher, (open source) software engineer, and community member."
   keywords: [Blog, Portfolio, PaperMod]
-  copyright: "&copy; 2023 Nikki Stevens"
+  copyright: "&copy; 2024 Nikki Stevens"
   author: Dr. Nikki Stevens
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"

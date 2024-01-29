@@ -5,13 +5,13 @@ title: Hi!
 ---
 
 
-Hi! :waving_hand: I'm Dr. Nikki Stevens - a technology researcher, software engineer, and open source community member.  Here's what I'm up to right now:
+Hi! 👋 I'm Dr. Nikki Stevens - a technology researcher, software engineer, and open source community member.  Here's what I'm up to right now:
 
-<h3>:office: Work</h3>
+<h3>🏢 Work</h3>
 
 I am currently a postdoctoral researcher at MIT, where I work in Catherine D'Ignazio's [Data plus Feminism](https://dataplusfeminism.mit.edu) lab.  
 
-<h3>:calendar: Events</h3>
+<h3>📆 Events</h3>
 
 **Upcoming:** 
 - [Prediction and Punishment: Cross-Disciplinary Workshop on Carceral AI](https://www.centerphilsci.pitt.edu/event/prediction-and-punishment-cross-disciplinary-workshop-on-carceral-ai/)
@@ -30,16 +30,16 @@ I am currently a postdoctoral researcher at MIT, where I work in Catherine D'Ign
 - Teaching a 1-week kids summer web dev / programming camp at [The Space on Main](https://thespaceonmain.org/)
 
 
-<h3>:book: Research</h3>
+<h3>📖 Research</h3>
 
 - For/with the Data + Feminism Lab, Studying the data activism practices of trans-led groups in the United States
 - Writing my first monograph: applying abolitionist principles to software creation practices (aka, I ask and answer "are there ways to make software to advance social good?")
 
-<h3>:man_teacher: Teaching</h3>
+<h3>👨‍🏫 Teaching</h3>
 
 The Moviegoer's Guide To The Future at Arizona State University (Fall 2023, Spring 2024)
 
-<h3>:classical_building: Civic and Community Life</h3>
+<h3>🏛️ Civic and Community Life</h3>
 
 - Trying to figure out how to be a useful elected official (read more at: [Open Gov Vermont](/series/open-gov-vermont/).)
 - I'm elected to the Bradford select board, and I'm newly retired from being the Interm Town Health Officer.
