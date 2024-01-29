@@ -7,7 +7,7 @@ title: Hi!
 
 Hi! :waving_hand: I'm Dr. Nikki Stevens - a technology researcher, software engineer, and open source community member.  Here's what I'm up to right now:
 
-<h3>:office_building: Work</h3>
+<h3>:office: Work</h3>
 
 I am currently a postdoctoral researcher at MIT, where I work in Catherine D'Ignazio's [Data plus Feminism](https://dataplusfeminism.mit.edu) lab.  
 
@@ -30,7 +30,7 @@ I am currently a postdoctoral researcher at MIT, where I work in Catherine D'Ign
 - Teaching a 1-week kids summer web dev / programming camp at [The Space on Main](https://thespaceonmain.org/)
 
 
-<h3>:open_book: Research</h3>
+<h3>:book: Research</h3>
 
 - For/with the Data + Feminism Lab, Studying the data activism practices of trans-led groups in the United States
 - Writing my first monograph: applying abolitionist principles to software creation practices (aka, I ask and answer "are there ways to make software to advance social good?")
