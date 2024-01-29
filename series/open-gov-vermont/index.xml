@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Gov Vermont on Dr. Nikki Stevens</title>
     <link>https://nikkistevens.com/series/open-gov-vermont/</link>
@@ -11,25 +11,22 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nikkistevens.com/series/open-gov-vermont/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://nikkistevens.com/series/open-gov-vermont/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Open Gov Vermont: Town Health Officer</title>
       <link>https://nikkistevens.com/posts/open-gov-vt-town-health-officer/</link>
       <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://nikkistevens.com/posts/open-gov-vt-town-health-officer/</guid>
       <description>At the end of July, I was appointed Bradford, Vermont&amp;rsquo;s Interim Town Health Officer (THO), after the resignation of our previous officer. This is a new role for me, so I reached out to VLCT for information on what THO do.</description>
     </item>
-    
     <item>
       <title>Open Gov Vermont: Open Meeting Law</title>
       <link>https://nikkistevens.com/posts/open-gov-vt-open-meeting-law/</link>
       <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://nikkistevens.com/posts/open-gov-vt-open-meeting-law/</guid>
       <description>There have been a lot of questions lately about who gets to speak (and otherwise participate) in SelectBoard meetings. Here&amp;rsquo;s what I know:
 The Selectboard is governed by Vermont&amp;rsquo;s Open Meeting Law (The specific statute - 1 V.</description>
     </item>
-    
   </channel>
 </rss>

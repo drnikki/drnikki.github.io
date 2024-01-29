@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Dr. Nikki Stevens</title>
     <link>https://nikkistevens.com/series/</link>
@@ -11,24 +11,21 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nikkistevens.com/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://nikkistevens.com/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Open Gov Vermont</title>
       <link>https://nikkistevens.com/series/open-gov-vermont/</link>
       <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://nikkistevens.com/series/open-gov-vermont/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Open Source PhD</title>
       <link>https://nikkistevens.com/series/open-source-phd/</link>
       <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://nikkistevens.com/series/open-source-phd/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

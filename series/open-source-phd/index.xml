@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Source PhD on Dr. Nikki Stevens</title>
     <link>https://nikkistevens.com/series/open-source-phd/</link>
@@ -11,190 +11,151 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 10 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://nikkistevens.com/series/open-source-phd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://nikkistevens.com/series/open-source-phd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Open Source PhD: The Dissertation</title>
       <link>https://nikkistevens.com/posts/open-source-phd-diss/</link>
       <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://nikkistevens.com/posts/open-source-phd-diss/</guid>
       <description>Since my first semester in graduate school, I&amp;rsquo;ve been posting my reading lists and general themes for the month. Since my comprehensive exams in May, I have certainly been reading, though not nearly as much.</description>
     </item>
-    
     <item>
       <title>History of Computing Timeline</title>
       <link>https://nikkistevens.com/posts/open-source-phd-timeline/</link>
       <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://nikkistevens.com/posts/open-source-phd-timeline/</guid>
       <description>As part of a series of posts that I&amp;rsquo;ve been calling &amp;ldquo;Open Source PhD,&amp;rdquo; I&amp;rsquo;m posting some of the materials that I prepared as I was studying for my comprehensive exams.</description>
     </item>
-    
     <item>
       <title>Open Source PhD: Spring 2019</title>
       <link>https://nikkistevens.com/posts/open-source-phd-spring-2019/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://nikkistevens.com/posts/open-source-phd-spring-2019/</guid>
       <description>Until this month, I tracked each book that I read and shared them here. During the spring semester, I&amp;rsquo;m reading for my comprehensive exams and so already know what I&amp;rsquo;ll be reading for the next few months.</description>
     </item>
-    
     <item>
       <title>Open Source PhD: November 2018</title>
       <link>https://nikkistevens.com/posts/open-source-phd-nov-2018/</link>
       <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://nikkistevens.com/posts/open-source-phd-nov-2018/</guid>
       <description>This month marked the LAST SEMESTER OF PHD COURSEWORK for me. I completed another draft of my second year project, a revise and resubmit (accepted!), and got my comprehensive exam reading lists approved.</description>
     </item>
-    
     <item>
       <title>Open Source PhD: October 2018</title>
       <link>https://nikkistevens.com/posts/open-source-phd-oct-2018/</link>
       <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://nikkistevens.com/posts/open-source-phd-oct-2018/</guid>
       <description>A deadline for a revise and resubmit meant not a lot of other reading got done. Below was reading required for classes.
 Abbate, J. (2000). Inventing the Internet. Cambridge, Mass.: The MIT Press.</description>
     </item>
-    
     <item>
       <title>Open Source PhD: September 2018</title>
       <link>https://nikkistevens.com/posts/open-source-phd-sept-2018/</link>
       <pubDate>Sun, 30 Sep 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://nikkistevens.com/posts/open-source-phd-sept-2018/</guid>
       <description>Welp, September is the first full month of the semester and it sure felt like it. This fall I&amp;rsquo;m in a class on Surveillance and Society with Marisa Duarte and Andrew Brown, and reading a book a week with Emma Frow.</description>
     </item>
-    
     <item>
       <title>Open Source PhD: Summer (May-Aug) 2018</title>
       <link>https://nikkistevens.com/posts/open-source-phd-summer-2018/</link>
       <pubDate>Fri, 31 Aug 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://nikkistevens.com/posts/open-source-phd-summer-2018/</guid>
       <description>This summer I wrote my second year project. As I gathered items, it didn&amp;rsquo;t make sense to list them all as &amp;ldquo;read&amp;rdquo; since I did a lot of skimming and extracting rather than wholesale reading.</description>
     </item>
-    
     <item>
       <title>Open Source PhD: April 2018</title>
       <link>https://nikkistevens.com/posts/open-source-phd-april-2018/</link>
       <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://nikkistevens.com/posts/open-source-phd-april-2018/</guid>
       <description>This month, I rewrote my second-year project proposal for the third and fourth times. (First and second iterations happened in January and February). Each complete rewrite brought with it a new or expanded set of literature.</description>
     </item>
-    
     <item>
       <title>Open Source PhD: March 2018</title>
       <link>https://nikkistevens.com/posts/open-source-phd-march-2018/</link>
       <pubDate>Fri, 30 Mar 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://nikkistevens.com/posts/open-source-phd-march-2018/</guid>
       <description>This month, I spoke at TEDxASU. Preparing for that took nearly all of the time I would have normally spent reading. Oops! In my main seminar, we were assigned a few books instead of a slew of articles, so it&amp;rsquo;s a short list.</description>
     </item>
-    
     <item>
       <title>Open Source PhD: February 2018</title>
       <link>https://nikkistevens.com/posts/open-source-phd-feb-2018/</link>
       <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://nikkistevens.com/posts/open-source-phd-feb-2018/</guid>
       <description>This month I didn&amp;rsquo;t do a very good job of what I&amp;rsquo;d tried to do last month - which is focus on only a few things. I read widely for a few reasons</description>
     </item>
-    
     <item>
       <title>Open Source PhD: January 2018</title>
       <link>https://nikkistevens.com/posts/open-source-phd-jan-2018/</link>
       <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://nikkistevens.com/posts/open-source-phd-jan-2018/</guid>
       <description>This month, I&amp;rsquo;m focused on getting a few big presentations ready, and writing a three large projects. I&amp;rsquo;m trying not to get interested in anything new (which is hard, because there&amp;rsquo;s so many good and interesting things!</description>
     </item>
-    
     <item>
       <title>Writing in the Open</title>
       <link>https://nikkistevens.com/posts/writing-in-the-open/</link>
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://nikkistevens.com/posts/writing-in-the-open/</guid>
       <description>i write code in public&amp;hellip; Over the semester break, I cleaned up my filing system and archived all of the writing that I did last semester - approximately 30,000 words. As I was putting it away, and sometimes even as I was writing it, I thought - what a shame that I can&amp;rsquo;t do anything else with all of this work&amp;hellip;</description>
     </item>
-    
     <item>
       <title>Open Source PhD: December 2017</title>
       <link>https://nikkistevens.com/posts/open-source-phd-dec-2017/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://nikkistevens.com/posts/open-source-phd-dec-2017/</guid>
       <description>The semester is finally over! I made it out without too many tears, and I spent the semester break doing some school reading but mostly I read junk and loved it.</description>
     </item>
-    
     <item>
       <title>Open Source PhD: November 2017</title>
       <link>https://nikkistevens.com/posts/open-source-phd-nov-2017/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://nikkistevens.com/posts/open-source-phd-nov-2017/</guid>
       <description>November was a shorter school month, and was mostly filled with doing everything I could to get things ready for spring and wrapped up for fall. I did a lot of writing for assignments and projects, and made a conscious effort to not read more than I needed to and to instead work to integrate what I&amp;rsquo;d already read.</description>
     </item>
-    
     <item>
       <title>Open Source PhD: October 2017</title>
       <link>https://nikkistevens.com/posts/open-source-phd-oct-2017/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://nikkistevens.com/posts/open-source-phd-oct-2017/</guid>
       <description>I spent October juggling projects (many not my own), and found that I was returning to some fundamental questions that I left unanswered (or didn&amp;rsquo;t answer satisfactorily) at the start of the semester:</description>
     </item>
-    
     <item>
       <title>The Honest Broker</title>
       <link>https://nikkistevens.com/posts/honest-broker/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://nikkistevens.com/posts/honest-broker/</guid>
       <description>Sharing some thoughts about Robert Pielke&amp;rsquo;s The Honest Broker and whether it&amp;rsquo;s applicable to technology contexts.
 Often, when we talk about science and technology, we talk about them as one field: “science and technology.</description>
     </item>
-    
     <item>
       <title>Open Source PhD: September 2017</title>
       <link>https://nikkistevens.com/posts/open-source-phd-sept-2017/</link>
       <pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://nikkistevens.com/posts/open-source-phd-sept-2017/</guid>
       <description>I spent September struggling to stay afloat. The way work was structured, I was able to spend time thinking about fewer ideas, but exploring them more fully. This month, those ideas were:</description>
     </item>
-    
     <item>
       <title>Open Source PhD: August 2017</title>
       <link>https://nikkistevens.com/posts/open-source-phd-aug-2017/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://nikkistevens.com/posts/open-source-phd-aug-2017/</guid>
       <description>I spent August getting used to being back in class, and thinking about:
 how do engineers think about engineering ethics on a day-to-day basis (if at all)? just because we can build something, does that mean we should?</description>
     </item>
-    
     <item>
       <title>Open Source PhD: July 2017</title>
       <link>https://nikkistevens.com/posts/open-source-phd-july-2017/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://nikkistevens.com/posts/open-source-phd-july-2017/</guid>
       <description>I spent July thinking about open source community health:
 how do measures of open source project success interact with measures of community health? (they don&amp;rsquo;t, because no measures of community health exist) what would a &amp;ldquo;healthy&amp;rdquo; open source community look like?</description>
     </item>
-    
     <item>
       <title>Open Source PhD: June 2017</title>
       <link>https://nikkistevens.com/posts/open-source-phd-june-2017/</link>
       <pubDate>Sat, 24 Jun 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://nikkistevens.com/posts/open-source-phd-june-2017/</guid>
       <description>I have often thought, &amp;ldquo;I wish I knew what people in [insert name of PhD program] were reading.&amp;rdquo; because I wanted to do that same reading. Some courses had syllabi available, some had notes, but it was hard to get a sense of the themes that were being discussed.</description>
     </item>
-    
   </channel>
 </rss>
