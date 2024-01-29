@@ -14,11 +14,13 @@ I am currently a postdoctoral researcher at MIT, where I work in Catherine D'Ign
 <h3>:calendar: Events</h3>
 
 **Upcoming:** 
-- AOIR 2023 in Philadelphia. I'll be on a panel with Sarah Florini, André Brock, and Jessie Daniels (a dream!)
-- Presenting my book proposal for feedback (final draft due 12/20)
+- [Prediction and Punishment: Cross-Disciplinary Workshop on Carceral AI](https://www.centerphilsci.pitt.edu/event/prediction-and-punishment-cross-disciplinary-workshop-on-carceral-ai/)
+- Speaking at Berkman Klein's Race + Tech working group 
+- Speaking at Harvard's Ethical Tech group
 
 
 **Recently:**
+- AOIR 2023 in Philadelphia. I was on a panel with Sarah Florini, André Brock, and Jessie Daniels (a dream!)
 - [Chan Zuckerberg Initiative's Open Science](https://chanzuckerberg.com/science/meetings/) Meeting.
 - Mentored scholars and artists who submitted to [HASTAC 2023's Creative Futures exhibit](https://hastac2023.org/cfp/). This was a project co-created with [Molly Morin](http://mollymorin.com/)
 - Advising engineering students at [Dartmouth's Thayer School of Engineering](https://engineering.dartmouth.edu/)
@@ -40,4 +42,5 @@ The Moviegoer's Guide To The Future at Arizona State University (Fall 2023, Spri
 <h3>:classical_building: Civic and Community Life</h3>
 
 - Trying to figure out how to be a useful elected official (read more at: [Open Gov Vermont](/series/open-gov-vermont/).)
-- I'm elected to the Bradford select board, and I'm currently the Interm Town Health Officer.
+- I'm elected to the Bradford select board, and I'm newly retired from being the Interm Town Health Officer.
+
