@@ -24,7 +24,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Dr. Nikki Stevens
   description: "Dr. Nikki Stevens is a technology researcher, (open source) software engineer, and community member."
-  keywords: [Blog, Portfolio, PaperMod]
+  keywords: [Blog, Portfolio]
   copyright: "&copy; 2024 Nikki Stevens"
   author: Dr. Nikki Stevens
   images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -134,3 +134,6 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+  goldmark:
+    renderer:
+      unsafe: true 
