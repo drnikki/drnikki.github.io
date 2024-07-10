@@ -36,8 +36,8 @@ I am currently a postdoctoral researcher at MIT, where I work in Catherine D'Ign
 
 <h3>👨‍🏫 Teaching</h3>
 
-The Moviegoer's Guide To The Future at Arizona State University (Summer 2024)
-Sociology of Databases at Hunter College (Fall 2024)
+- The Moviegoer's Guide To The Future at Arizona State University (Summer 2024)
+- Sociology of Databases at Hunter College (Fall 2024)
 
 <h3>🏛️ Civic and Community Life</h3>
 
