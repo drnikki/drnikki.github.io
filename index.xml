@@ -14,6 +14,13 @@
     <lastBuildDate>Thu, 18 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://nikkistevens.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Research</title>
+      <link>https://nikkistevens.com/research/</link>
+      <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://nikkistevens.com/research/</guid>
+      <description>My research agenda examines how software engineering practices are situated within contemporary political and social systems of power. At parties, I tell people that I study software, people, and infrastructure and how those three combine in messy, violent, generative, and always complicated ways.</description>
+    </item>
+    <item>
       <title>Open Gov Vermont: Town Health Officer</title>
       <link>https://nikkistevens.com/posts/open-gov-vt-town-health-officer/</link>
       <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
@@ -43,13 +50,6 @@ Ways to Contribute [VERSO] has compiled a list of ways to contribute to open sou
       <guid>https://nikkistevens.com/open-source/</guid>
       <description>I have several active or otherwise on-going open source projects. I&amp;rsquo;m also currently doing some thinking about university open source project offices. More about OSPOs&amp;hellip;
 Open Demographics The Open Demographics project is an open-source project designed to help people and teams ask questions about demographic data (gender, sexual orientation, race).</description>
-    </item>
-    <item>
-      <title>Research</title>
-      <link>https://nikkistevens.com/research/</link>
-      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://nikkistevens.com/research/</guid>
-      <description>My research agenda examines how software engineering practices are situated within contemporary political and social systems of power. This takes two main forms: First, while we might frequently hear accusations of tech being racist or transphobic, we don&amp;rsquo;t often see the technical causes of those outcomes; my research uncovers those causes &amp;ndash; when we know how we are making [bad thing], then we may have an opportunity to do things differently.</description>
     </item>
     <item>
       <title></title>
