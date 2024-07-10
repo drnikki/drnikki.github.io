@@ -1,5 +1,5 @@
 ---
-date: 2022-09-18
+date: 2024-01-18
 published: true
 title: Hi!
 ---
@@ -14,30 +14,30 @@ I am currently a postdoctoral researcher at MIT, where I work in Catherine D'Ign
 <h3>📆 Events</h3>
 
 **Upcoming:** 
-- [Prediction and Punishment: Cross-Disciplinary Workshop on Carceral AI](https://www.centerphilsci.pitt.edu/event/prediction-and-punishment-cross-disciplinary-workshop-on-carceral-ai/)
-- Speaking at Berkman Klein's Race + Tech working group 
-- Speaking at Harvard's Ethical Tech group
+- [Society for the History of Technology presentation](https://www.historyoftechnology.org/annual-meeting/2024-joint-icohtec-shot-annual-meeting/2024-joint-icohtec-shot-annual-meeting-call-for-papers/)
+- [NIH: Exploring the Many Dimensions of Sex and Gender](https://www.genome.gov/event-calendar/exploring-the-many-dimensions-of-sex-and-gender-in-the-genomics-era)
+- "Critical Technical Practice: The role of software in social change" at the University of Alabama
+
 
 
 **Recently:**
+- Spoke at at Berkman Klein's Race + Tech working group 
+- Spoke at at Harvard's Ethical Tech group 
 - AOIR 2023 in Philadelphia. I was on a panel with Sarah Florini, André Brock, and Jessie Daniels (a dream!)
 - [Chan Zuckerberg Initiative's Open Science](https://chanzuckerberg.com/science/meetings/) Meeting.
-- Mentored scholars and artists who submitted to [HASTAC 2023's Creative Futures exhibit](https://hastac2023.org/cfp/). This was a project co-created with [Molly Morin](http://mollymorin.com/)
-- Advising engineering students at [Dartmouth's Thayer School of Engineering](https://engineering.dartmouth.edu/)
-- Finished a large sculptural data visualization for HASTAC - installed at Pratt in June [Read about the sculpture and the open source code](https://textile.hastac.hcommons.org/)
 - Spoke at [The Alan Turing Institute](https://www.turing.ac.uk/) 
-- Assisted the [Black Sound Lab](https://blacksoundlab.com/)'s director Allie Martin with an art installation in Colombus, Ohio.  [write up](https://www.wyso.org/arts-culture/2023-08-21/allie-martins-this-is-a-black-neighborhood-comes-to-columbus)
-- Teaching a 1-week kids summer web dev / programming camp at [The Space on Main](https://thespaceonmain.org/)
 
 
 <h3>📖 Research</h3>
 
-- For/with the Data + Feminism Lab, Studying the data activism practices of trans-led groups in the United States
-- Writing my first monograph: applying abolitionist principles to software creation practices (aka, I ask and answer "are there ways to make software to advance social good?")
+- For/with the Data + Feminism Lab, writing about the social and political complexities of Participatory AI
+- Writing my first monograph about the role of software in social reform
+- Just finished a research project about US-based transgender activists and how they work with data in their activism
 
 <h3>👨‍🏫 Teaching</h3>
 
-The Moviegoer's Guide To The Future at Arizona State University (Fall 2023, Spring 2024)
+The Moviegoer's Guide To The Future at Arizona State University (Summer 2024)
+Sociology of Databases at Hunter College (Fall 2024)
 
 <h3>🏛️ Civic and Community Life</h3>
 
