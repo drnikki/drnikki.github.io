@@ -14,13 +14,15 @@ I am currently a postdoctoral researcher at MIT, where I work in Catherine D'Ign
 <h3>📆 Events</h3>
 
 **Upcoming:** 
-- [Society for the History of Technology presentation](https://www.historyoftechnology.org/annual-meeting/2024-joint-icohtec-shot-annual-meeting/2024-joint-icohtec-shot-annual-meeting-call-for-papers/)
-- [NIH: Exploring the Many Dimensions of Sex and Gender](https://www.genome.gov/event-calendar/exploring-the-many-dimensions-of-sex-and-gender-in-the-genomics-era)
-- "Critical Technical Practice: The role of software in social change" at the University of Alabama
-
+- [Software From the Inside Out @ MIT Sept 24](/posts/2024-09-20-mit-talk/)
+- Talk (title TBD) @ Dartmouth Oct 9
+- Talk (title TBD) & student visit @ Georgia Institute of Technology
+- Talk: Speculative Software Methods @ University of Alabama, November 21
 
 
 **Recently:**
+- [Society for the History of Technology presentation](https://www.historyoftechnology.org/annual-meeting/2024-joint-icohtec-shot-annual-meeting/2024-joint-icohtec-shot-annual-meeting-call-for-papers/)
+- [NIH: Exploring the Many Dimensions of Sex and Gender](https://www.genome.gov/event-calendar/exploring-the-many-dimensions-of-sex-and-gender-in-the-genomics-era)
 - Spoke at at Berkman Klein's Race + Tech working group 
 - Spoke at at Harvard's Ethical Tech group 
 - AOIR 2023 in Philadelphia. I was on a panel with Sarah Florini, André Brock, and Jessie Daniels (a dream!)
