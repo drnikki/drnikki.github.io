@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://nikkistevens.com/posts/2024-09-20-mit-talk/</loc>
+    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://nikkistevens.com/posts/</loc>
+    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://nikkistevens.com/research/</loc>
     <lastmod>2024-02-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -18,11 +28,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://nikkistevens.com/posts/open-gov-vt-town-health-officer/</loc>
-    <lastmod>2023-08-03T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://nikkistevens.com/posts/</loc>
     <lastmod>2023-08-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

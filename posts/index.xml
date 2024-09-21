@@ -11,302 +11,421 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://nikkistevens.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MIT Talk: Reverse Engineering as Method</title>
+      <link>https://nikkistevens.com/posts/2024-09-20-mit-talk/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://nikkistevens.com/posts/2024-09-20-mit-talk/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m so excited to give a talk at MIT on Tuesday.  I&amp;rsquo;ll be talking about reverse engineering. If I need to sound fancy about it, I will tell you that &amp;ldquo;reverse engineering is a logic and approach that is core to my method.&amp;rdquo;  Put more plainly, I use reverse engineering and other &amp;ldquo;take it apart and figure out how it works&amp;rdquo; approaches to academic software research.   Details (and poster!) below.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Open Gov Vermont: Town Health Officer</title>
       <link>https://nikkistevens.com/posts/open-gov-vt-town-health-officer/</link>
       <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://nikkistevens.com/posts/open-gov-vt-town-health-officer/</guid>
-      <description>At the end of July, I was appointed Bradford, Vermont&amp;rsquo;s Interim Town Health Officer (THO), after the resignation of our previous officer. This is a new role for me, so I reached out to VLCT for information on what THO do.</description>
+      <description>&lt;p&gt;At the end of July, I was appointed Bradford, Vermont&amp;rsquo;s Interim Town Health Officer (THO), after the resignation of our previous officer.   This is a new role for me, so I reached out to VLCT for information on what THO do.  Here&amp;rsquo;s what I found out&lt;/p&gt;</description>
     </item>
     <item>
       <title>Open Gov Vermont: Open Meeting Law</title>
       <link>https://nikkistevens.com/posts/open-gov-vt-open-meeting-law/</link>
       <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://nikkistevens.com/posts/open-gov-vt-open-meeting-law/</guid>
-      <description>There have been a lot of questions lately about who gets to speak (and otherwise participate) in SelectBoard meetings. Here&amp;rsquo;s what I know:
-The Selectboard is governed by Vermont&amp;rsquo;s Open Meeting Law (The specific statute - 1 V.</description>
+      <description>&lt;p&gt;There have been a lot of questions lately about who gets to speak (and otherwise participate) in SelectBoard meetings.  Here&amp;rsquo;s what I know:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The Selectboard is governed by Vermont&amp;rsquo;s &lt;a href=&#34;https://www.vlct.org/topics/vermonts-open-meeting-law&#34;&gt;Open Meeting Law&lt;/a&gt; (&lt;a href=&#34;https://legislature.vermont.gov/statutes/section/01/005/00312#:~:text=Subchapter%20002%20%3A%20Public%20Information%20%28Cite%20as%3A%201,as%20provided%20in%20section%20313%20of%20this%20title.&#34;&gt;The specific statute - &lt;strong&gt;1 V.S.A. § 312&lt;/strong&gt;&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;VLCT offers FAQs about the Open Meeting Law.  These might be locked behind their login screen, so &lt;a href=&#34;https://nikkistevens.com/VLCTOpenMeetingLawFAQs.pdf&#34;&gt;here is a PDF of that page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;VLCT offers &lt;a href=&#34;https://www.vlct.org/resource/model-rules-procedure-municipal-boards&#34;&gt;Model Rules of Procedure&lt;/a&gt; for SelectBoards without their own bylaws&lt;/li&gt;
+&lt;li&gt;In conversation with VLCT, they note that the spirit of the law is to err on the side of allowing more participation than less, within &amp;ldquo;reasonable&amp;rdquo; limits.&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>OSPO 101</title>
       <link>https://nikkistevens.com/posts/ospos/</link>
       <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
       <guid>https://nikkistevens.com/posts/ospos/</guid>
-      <description>The information below is part of a larger conversation about Open Source Program (or Project) Offices (OSPOs)in academic (university) settings.
-Ways to Contribute [VERSO] has compiled a list of ways to contribute to open source, especially if you are not a coder.</description>
+      <description>&lt;p&gt;The information below is part of a larger conversation about Open Source Program (or Project) Offices (OSPOs)in academic (university) settings.&lt;/p&gt;
+&lt;!-- NEXT TASK:
+https://ospoplusplus.org/resource/
+
+take these, and grab the objectives and put them into a table or sheet or something so that they can be compared across each other. --&gt;
+&lt;h3 id=&#34;ways-to-contribute&#34;&gt;Ways to Contribute&lt;/h3&gt;
+&lt;p&gt;[VERSO] has compiled a list of &lt;a href=&#34;https://verso.w3.uvm.edu/start-contributing/&#34;&gt;ways to contribute&lt;/a&gt; to open source, especially if you are not a coder.&lt;/p&gt;</description>
     </item>
     <item>
       <title>DrupalCon 2020: Slides and Resources</title>
       <link>https://nikkistevens.com/posts/drupalcon-2020/</link>
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://nikkistevens.com/posts/drupalcon-2020/</guid>
-      <description>This week I got to present at DrupalCon (again! I love the Drupal community) and talk about what it means to think about making software with transgender users in mind. Given the diverse audience, the talk is also a bit of a trans 101.</description>
+      <description>&lt;p&gt;This week I got to present at DrupalCon (again! I love the Drupal community) and talk about what it means to think about making software with transgender users in mind.  Given the diverse audience, the talk is also a bit of a trans 101.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Open Source PhD: The Dissertation</title>
       <link>https://nikkistevens.com/posts/open-source-phd-diss/</link>
       <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://nikkistevens.com/posts/open-source-phd-diss/</guid>
-      <description>Since my first semester in graduate school, I&amp;rsquo;ve been posting my reading lists and general themes for the month. Since my comprehensive exams in May, I have certainly been reading, though not nearly as much.</description>
+      <description>&lt;p&gt;Since my first semester in graduate school, I&amp;rsquo;ve been posting my reading lists and general themes for the month.  Since my comprehensive exams in May, I have certainly been reading, though not nearly as much.  I took some time off, moved to the Dartmouth area and began working as a researcher and lab manager of the Digital Justice Lab, a lab in the &lt;a href=&#34;http://dhse.dartmouth.edu&#34;&gt;Digital Humanities and Social Engagement&lt;/a&gt; Cluster.&lt;/p&gt;</description>
     </item>
     <item>
       <title>History of Computing Timeline</title>
       <link>https://nikkistevens.com/posts/open-source-phd-timeline/</link>
       <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
       <guid>https://nikkistevens.com/posts/open-source-phd-timeline/</guid>
-      <description>As part of a series of posts that I&amp;rsquo;ve been calling &amp;ldquo;Open Source PhD,&amp;rdquo; I&amp;rsquo;m posting some of the materials that I prepared as I was studying for my comprehensive exams.</description>
+      <description>&lt;p&gt;As part of a series of posts that I&amp;rsquo;ve been calling &amp;ldquo;Open Source PhD,&amp;rdquo; I&amp;rsquo;m posting some of the materials that I prepared as I was studying for my comprehensive exams. You can see the reading lists for those exams &lt;a href=&#34;https://nikkistevens.com/posts/open-source-phd-spring-2019/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>On developing a practice of acknowledgment</title>
       <link>https://nikkistevens.com/posts/kindness/</link>
       <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
       <guid>https://nikkistevens.com/posts/kindness/</guid>
-      <description>This week I attended three conferences - The Rightful Place of Science, Digital Democracies, and HASTAC 2019. The three were very different, but each gave me an opportunity to interact with other grad students and with professors of all levels.</description>
+      <description>&lt;p&gt;This week I attended &lt;em&gt;three&lt;/em&gt; conferences - &lt;a href=&#34;https://sfis.asu.edu/news-events/events/cspo-20th&#34;&gt;The Rightful Place of Science&lt;/a&gt;, &lt;a href=&#34;http://www.sfu.ca/digital-democracies/2019-conference/program.html&#34;&gt;Digital Democracies&lt;/a&gt;, and &lt;a href=&#34;http://www.hastac2019.org/&#34;&gt;HASTAC 2019&lt;/a&gt;.  The three were very different, but each gave me an opportunity to interact with other grad students and with professors of all levels.   It was wonderful and exhausting. At HASTAC 2019, the plenary talks invoked themes of connection, of community.  Speakers cited specifically where they learned a concept (&amp;ldquo;from an elder in Treaty 3&amp;rdquo;), why they used a particular framework (because it was used &amp;ldquo;by an elder who I&amp;rsquo;m accountable to&amp;rdquo;), and made a point to acknowledge the roles of other people in all of their work.&lt;/p&gt;</description>
     </item>
     <item>
       <title>I commit</title>
       <link>https://nikkistevens.com/posts/2018-10-06-i-commit/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://nikkistevens.com/posts/2018-10-06-i-commit/</guid>
-      <description>Hi. In a way, everything feels terrible right now, doesn&amp;rsquo;t it? I&amp;rsquo;m pretty tired of feeling terrible, and super tired of feeling like the country is in a new level of shit, when - let&amp;rsquo;s be honest - it&amp;rsquo;s been shit for everyone but white men since the beginning.</description>
+      <description>&lt;p&gt;Hi. In a way, everything feels terrible &lt;a href=&#34;https://www.theguardian.com/us-news/2018/oct/06/brett-kavanaugh-confirmed-us-supreme-court&#34;&gt;right now&lt;/a&gt;, doesn&amp;rsquo;t it?  I&amp;rsquo;m pretty tired of feeling terrible, and &lt;em&gt;super&lt;/em&gt; tired of feeling like the country is in a new level of shit, when - let&amp;rsquo;s be honest - it&amp;rsquo;s been shit for everyone but white men since the beginning.  I hear a lot of people feeling powerless; folks are tired. Me too, y&amp;rsquo;all (and #metoo).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Open Source PhD: Spring 2019</title>
       <link>https://nikkistevens.com/posts/open-source-phd-spring-2019/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://nikkistevens.com/posts/open-source-phd-spring-2019/</guid>
-      <description>Until this month, I tracked each book that I read and shared them here. During the spring semester, I&amp;rsquo;m reading for my comprehensive exams and so already know what I&amp;rsquo;ll be reading for the next few months.</description>
+      <description>&lt;p&gt;Until this month, I tracked each book that I read and shared them here.  During the spring semester, I&amp;rsquo;m reading for my &lt;a href=&#34;https://en.wikipedia.org/wiki/Comprehensive_examination&#34;&gt;comprehensive exams&lt;/a&gt; and so already know what I&amp;rsquo;ll be reading for the next few months. I&amp;rsquo;m focusing on three areas: software engineering ethics, intersectional STS (science and technology studies), and the social history of computing.  Once I&amp;rsquo;ve read all of these, I&amp;rsquo;ll write a long paper (about 8,000 words, or ~16 single-spaced pages) about what I&amp;rsquo;ve read.  Then, I&amp;rsquo;ll sit for an oral exam with my committee.  Then, I&amp;rsquo;m done! (Nothing left to do but a quick little dissertation.)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Drupal and demographic information</title>
       <link>https://nikkistevens.com/posts/drupal-open-demographics/</link>
       <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://nikkistevens.com/posts/drupal-open-demographics/</guid>
-      <description>This is just a quick overview post on what&amp;rsquo;s happening with Drupal.org (owned by the Drupal Association) collecting demographic information on it&amp;rsquo;s members. The current proposal is that the user profile form will have fields at least for gender and &amp;ldquo;ideally&amp;rdquo; for other demographic categories (race, sexual orientation, etc)</description>
+      <description>&lt;p&gt;This is just a quick overview post on what&amp;rsquo;s happening with Drupal.org (owned by the Drupal Association) collecting demographic information on it&amp;rsquo;s members.  The current proposal is that the user profile form will have fields at least for gender and &amp;ldquo;ideally&amp;rdquo; for other demographic categories (race, sexual orientation, etc)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Open Source PhD: November 2018</title>
       <link>https://nikkistevens.com/posts/open-source-phd-nov-2018/</link>
       <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
       <guid>https://nikkistevens.com/posts/open-source-phd-nov-2018/</guid>
-      <description>This month marked the LAST SEMESTER OF PHD COURSEWORK for me. I completed another draft of my second year project, a revise and resubmit (accepted!), and got my comprehensive exam reading lists approved.</description>
+      <description>&lt;p&gt;This month marked the LAST SEMESTER OF PHD COURSEWORK for me. I completed another draft of my second year project, a revise and resubmit (accepted!), and got my comprehensive exam reading lists approved. I also spent a lot of time writing and thinking about the Amazon Echo&amp;rsquo;s role as a provider of legal testimony.  Phew.  Hopefully I won&amp;rsquo;t read a single book in December.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Open Source PhD: October 2018</title>
       <link>https://nikkistevens.com/posts/open-source-phd-oct-2018/</link>
       <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
       <guid>https://nikkistevens.com/posts/open-source-phd-oct-2018/</guid>
-      <description>A deadline for a revise and resubmit meant not a lot of other reading got done. Below was reading required for classes.
-Abbate, J. (2000). Inventing the Internet. Cambridge, Mass.: The MIT Press.</description>
+      <description>&lt;p&gt;A deadline for a revise and resubmit meant not a lot of other reading got done.  Below was reading required for classes.&lt;/p&gt;
+&lt;hr&gt;
+&lt;div class=&#34;csl-bib-body&#34; style=&#34;line-height: 2; margin-left: 2em; text-indent:-2em;&#34;&gt;
+  &lt;div class=&#34;csl-entry&#34;&gt;Abbate, J. (2000). &lt;i&gt;Inventing the Internet&lt;/i&gt;. Cambridge, Mass.: The MIT Press.&lt;/div&gt;
+  &lt;span class=&#34;Z3988&#34; title=&#34;url_ver=Z39.88-2004&amp;amp;ctx_ver=Z39.88-2004&amp;amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;amp;rft_id=urn%3Aisbn%3A978-0-262-51115-5&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;amp;rft.genre=book&amp;amp;rft.btitle=Inventing%20the%20Internet&amp;amp;rft.place=Cambridge%2C%20Mass.&amp;amp;rft.publisher=The%20MIT%20Press&amp;amp;rft.aufirst=Janet&amp;amp;rft.aulast=Abbate&amp;amp;rft.au=Janet%20Abbate&amp;amp;rft.date=2000-07-31&amp;amp;rft.tpages=272&amp;amp;rft.isbn=978-0-262-51115-5&amp;amp;rft.language=English&#34;&gt;&lt;/span&gt;
+  &lt;div class=&#34;csl-entry&#34;&gt;Alexander von Humboldt Institut für Internet und Gesellschaft. (n.d.). &lt;i&gt;#AoIR2016: Opening Keynote “The Platform Society” by José van Dijck&lt;/i&gt;. Retrieved from &lt;a href=&#34;https://www.youtube.com/watch?v=-ypiiSQTNqo&#34;&gt;https://www.youtube.com/watch?v=-ypiiSQTNqo&lt;/a&gt;&lt;/div&gt;
+  &lt;span class=&#34;Z3988&#34; title=&#34;url_ver=Z39.88-2004&amp;amp;ctx_ver=Z39.88-2004&amp;amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;amp;rft.type=videoRecording&amp;amp;rft.title=%23AoIR2016%3A%20Opening%20Keynote%20%22The%20Platform%20Society%22%20by%20Jos%C3%A9%20van%20Dijck&amp;amp;rft.identifier=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-ypiiSQTNqo&amp;amp;rft.au=undefined&#34;&gt;&lt;/span&gt;
+  &lt;div class=&#34;csl-entry&#34;&gt;brown,  adrienne maree. (2017). &lt;i&gt;Emergent Strategy: Shaping Change, Changing Worlds&lt;/i&gt;. Chico, CA: AK Press.&lt;/div&gt;
+  &lt;span class=&#34;Z3988&#34; title=&#34;url_ver=Z39.88-2004&amp;amp;ctx_ver=Z39.88-2004&amp;amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;amp;rft_id=urn%3Aisbn%3A978-1-84935-260-4&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;amp;rft.genre=book&amp;amp;rft.btitle=Emergent%20Strategy%3A%20Shaping%20Change%2C%20Changing%20Worlds&amp;amp;rft.place=Chico%2C%20CA&amp;amp;rft.publisher=AK%20Press&amp;amp;rft.aufirst=adrienne%20maree&amp;amp;rft.aulast=brown&amp;amp;rft.au=adrienne%20maree%20brown&amp;amp;rft.date=2017-04-18&amp;amp;rft.tpages=280&amp;amp;rft.isbn=978-1-84935-260-4&amp;amp;rft.language=English&#34;&gt;&lt;/span&gt;
+  &lt;div class=&#34;csl-entry&#34;&gt;Cooper, M. E. (2008). &lt;i&gt;Life As Surplus: Biotechnology and Capitalism in the Neoliberal Era&lt;/i&gt;. Seattle: University of Washington Press.&lt;/div&gt;
+  &lt;span class=&#34;Z3988&#34; title=&#34;url_ver=Z39.88-2004&amp;amp;ctx_ver=Z39.88-2004&amp;amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;amp;rft_id=urn%3Aisbn%3A978-0-295-98791-0&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;amp;rft.genre=book&amp;amp;rft.btitle=Life%20As%20Surplus%3A%20Biotechnology%20and%20Capitalism%20in%20the%20Neoliberal%20Era&amp;amp;rft.place=Seattle&amp;amp;rft.publisher=University%20of%20Washington%20Press&amp;amp;rft.aufirst=Melinda%20E.&amp;amp;rft.aulast=Cooper&amp;amp;rft.au=Melinda%20E.%20Cooper&amp;amp;rft.date=2008-02-20&amp;amp;rft.tpages=208&amp;amp;rft.isbn=978-0-295-98791-0&amp;amp;rft.language=English&#34;&gt;&lt;/span&gt;
+  &lt;div class=&#34;csl-entry&#34;&gt;Crawford, K., Lingel, J., &amp;amp; Karppi, T. (2015). Our metrics, ourselves: A hundred years of self-tracking from the weight scale to the wrist wearable device. &lt;i&gt;European Journal of Cultural Studies&lt;/i&gt;, &lt;i&gt;18&lt;/i&gt;(4–5), 479–496.&lt;/div&gt;
+  &lt;span class=&#34;Z3988&#34; title=&#34;url_ver=Z39.88-2004&amp;amp;ctx_ver=Z39.88-2004&amp;amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;amp;rft.genre=article&amp;amp;rft.atitle=Our%20metrics%2C%20ourselves%3A%20A%20hundred%20years%20of%20self-tracking%20from%20the%20weight%20scale%20to%20the%20wrist%20wearable%20device&amp;amp;rft.jtitle=European%20Journal%20of%20Cultural%20Studies&amp;amp;rft.volume=18&amp;amp;rft.issue=4-5&amp;amp;rft.aufirst=Kate&amp;amp;rft.aulast=Crawford&amp;amp;rft.au=Kate%20Crawford&amp;amp;rft.au=Jessa%20Lingel&amp;amp;rft.au=Tero%20Karppi&amp;amp;rft.date=2015&amp;amp;rft.pages=479%E2%80%93496&#34;&gt;&lt;/span&gt;
+  &lt;div class=&#34;csl-entry&#34;&gt;Eubanks, V. (2011). &lt;i&gt;Digital Dead End: Fighting for Social Justice in the Information Age&lt;/i&gt; (1St Edition edition). Cambridge, Mass: The MIT Press.&lt;/div&gt;
+  &lt;span class=&#34;Z3988&#34; title=&#34;url_ver=Z39.88-2004&amp;amp;ctx_ver=Z39.88-2004&amp;amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;amp;rft_id=urn%3Aisbn%3A978-0-262-01498-4&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;amp;rft.genre=book&amp;amp;rft.btitle=Digital%20Dead%20End%3A%20Fighting%20for%20Social%20Justice%20in%20the%20Information%20Age&amp;amp;rft.place=Cambridge%2C%20Mass&amp;amp;rft.publisher=The%20MIT%20Press&amp;amp;rft.edition=1St%20Edition%20edition&amp;amp;rft.aufirst=Virginia&amp;amp;rft.aulast=Eubanks&amp;amp;rft.au=Virginia%20Eubanks&amp;amp;rft.date=2011-02-18&amp;amp;rft.tpages=288&amp;amp;rft.isbn=978-0-262-01498-4&amp;amp;rft.language=English&#34;&gt;&lt;/span&gt;
+  &lt;div class=&#34;csl-entry&#34;&gt;Ferguson, A. G. (2017). &lt;i&gt;The Rise of Big Data Policing: Surveillance, Race, and the Future of Law Enforcement&lt;/i&gt;. New York: NYU Press.&lt;/div&gt;
+  &lt;span class=&#34;Z3988&#34; title=&#34;url_ver=Z39.88-2004&amp;amp;ctx_ver=Z39.88-2004&amp;amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;amp;rft_id=urn%3Aisbn%3A978-1-4798-9282-2&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;amp;rft.genre=book&amp;amp;rft.btitle=The%20Rise%20of%20Big%20Data%20Policing%3A%20Surveillance%2C%20Race%2C%20and%20the%20Future%20of%20Law%20Enforcement&amp;amp;rft.place=New%20York&amp;amp;rft.publisher=NYU%20Press&amp;amp;rft.aufirst=Andrew%20Guthrie&amp;amp;rft.aulast=Ferguson&amp;amp;rft.au=Andrew%20Guthrie%20Ferguson&amp;amp;rft.date=2017-10-03&amp;amp;rft.tpages=272&amp;amp;rft.isbn=978-1-4798-9282-2&amp;amp;rft.language=English&#34;&gt;&lt;/span&gt;
+  &lt;div class=&#34;csl-entry&#34;&gt;Haraway, D. J. (1996). &lt;i&gt;Simians Cyborgs and Women&lt;/i&gt;. London: Free Association Books.&lt;/div&gt;
+  &lt;span class=&#34;Z3988&#34; title=&#34;url_ver=Z39.88-2004&amp;amp;ctx_ver=Z39.88-2004&amp;amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;amp;rft_id=urn%3Aisbn%3A978-1-85343-139-5&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;amp;rft.genre=book&amp;amp;rft.btitle=Simians%20Cyborgs%20and%20Women&amp;amp;rft.place=London&amp;amp;rft.publisher=Free%20Association%20Books&amp;amp;rft.aufirst=Donna%20J.&amp;amp;rft.aulast=Haraway&amp;amp;rft.au=Donna%20J.%20Haraway&amp;amp;rft.date=1996-01-19&amp;amp;rft.tpages=288&amp;amp;rft.isbn=978-1-85343-139-5&amp;amp;rft.language=English&#34;&gt;&lt;/span&gt;
+  &lt;div class=&#34;csl-entry&#34;&gt;Harding, S. (2008). &lt;i&gt;Sciences from Below: Feminisms, Postcolonialities, and Modernities&lt;/i&gt;. Durham: Duke University Press.&lt;/div&gt;
+  &lt;span class=&#34;Z3988&#34; title=&#34;url_ver=Z39.88-2004&amp;amp;ctx_ver=Z39.88-2004&amp;amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;amp;rft_id=urn%3Aisbn%3A978-0-8223-4282-3&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;amp;rft.genre=book&amp;amp;rft.btitle=Sciences%20from%20Below%3A%20Feminisms%2C%20Postcolonialities%2C%20and%20Modernities&amp;amp;rft.place=Durham&amp;amp;rft.publisher=Duke%20University%20Press&amp;amp;rft.aufirst=Sandra&amp;amp;rft.aulast=Harding&amp;amp;rft.au=Sandra%20Harding&amp;amp;rft.date=2008-06-25&amp;amp;rft.tpages=296&amp;amp;rft.isbn=978-0-8223-4282-3&amp;amp;rft.language=English&#34;&gt;&lt;/span&gt;
+  &lt;div class=&#34;csl-entry&#34;&gt;Jasanoff, S. (2017). Virtual, visible, and actionable: Data assemblages and the sightlines of justice. &lt;i&gt;Big Data &amp;amp; Society&lt;/i&gt;, &lt;i&gt;4&lt;/i&gt;(2), 2053951717724477. &lt;a href=&#34;https://doi.org/10.1177/2053951717724477&#34;&gt;https://doi.org/10.1177/2053951717724477&lt;/a&gt;&lt;/div&gt;
+  &lt;span class=&#34;Z3988&#34; title=&#34;url_ver=Z39.88-2004&amp;amp;ctx_ver=Z39.88-2004&amp;amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;amp;rft_id=info%3Adoi%2F10.1177%2F2053951717724477&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;amp;rft.genre=article&amp;amp;rft.atitle=Virtual%2C%20visible%2C%20and%20actionable%3A%20Data%20assemblages%20and%20the%20sightlines%20of%20justice&amp;amp;rft.jtitle=Big%20Data%20%26%20Society&amp;amp;rft.stitle=Big%20Data%20%26%20Society&amp;amp;rft.volume=4&amp;amp;rft.issue=2&amp;amp;rft.aufirst=Sheila&amp;amp;rft.aulast=Jasanoff&amp;amp;rft.au=Sheila%20Jasanoff&amp;amp;rft.date=2017-12-01&amp;amp;rft.pages=2053951717724477&amp;amp;rft.issn=2053-9517&amp;amp;rft.language=en&#34;&gt;&lt;/span&gt;
+  &lt;div class=&#34;csl-entry&#34;&gt;Muñoz, J. E. (2009). Introduction. In &lt;i&gt;Cruising Utopia: The Then and There of Queer Futurity&lt;/i&gt;. New York, UNITED STATES: New York University Press. Retrieved from &lt;a href=&#34;http://ebookcentral.proquest.com/lib/asulib-ebooks/detail.action?docID=865693&#34;&gt;http://ebookcentral.proquest.com/lib/asulib-ebooks/detail.action?docID=865693&lt;/a&gt;&lt;/div&gt;
+  &lt;span class=&#34;Z3988&#34; title=&#34;url_ver=Z39.88-2004&amp;amp;ctx_ver=Z39.88-2004&amp;amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;amp;rft_id=urn%3Aisbn%3A978-0-8147-5951-6&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;amp;rft.genre=bookitem&amp;amp;rft.atitle=Introduction&amp;amp;rft.place=New%20York%2C%20UNITED%20STATES&amp;amp;rft.publisher=New%20York%20University%20Press&amp;amp;rft.aufirst=Jos%C3%A9%20Esteban&amp;amp;rft.aulast=Mu%C3%B1oz&amp;amp;rft.au=Jos%C3%A9%20Esteban%20Mu%C3%B1oz&amp;amp;rft.date=2009&amp;amp;rft.isbn=978-0-8147-5951-6&#34;&gt;&lt;/span&gt;
+  &lt;div class=&#34;csl-entry&#34;&gt;Nakamura, L. (2014). Indigenous Circuits: Navajo Women and the Racialization of Early Electronic Manufacture. &lt;i&gt;American Quarterly&lt;/i&gt;, &lt;i&gt;66&lt;/i&gt;(4), 919–941.&lt;/div&gt;
+  &lt;span class=&#34;Z3988&#34; title=&#34;url_ver=Z39.88-2004&amp;amp;ctx_ver=Z39.88-2004&amp;amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;amp;rft.genre=article&amp;amp;rft.atitle=Indigenous%20Circuits%3A%20Navajo%20Women%20and%20the%20Racialization%20of%20Early%20Electronic%20Manufacture&amp;amp;rft.jtitle=American%20Quarterly&amp;amp;rft.volume=66&amp;amp;rft.issue=4&amp;amp;rft.aufirst=Lisa&amp;amp;rft.aulast=Nakamura&amp;amp;rft.au=Lisa%20Nakamura&amp;amp;rft.date=2014&amp;amp;rft.pages=919%E2%80%93941&#34;&gt;&lt;/span&gt;
+  &lt;div class=&#34;csl-entry&#34;&gt;Nash, C. J., &amp;amp; Browne, K. (2010). Queer Methods and Methodologies: An Introduction. In &lt;i&gt;Queer Methods and Methodologies: Intersecting Queer Theories and Social Science Research&lt;/i&gt;. Farnham, UNITED KINGDOM: Taylor &amp;amp; Francis Group. Retrieved from &lt;a href=&#34;http://ebookcentral.proquest.com/lib/asulib-ebooks/detail.action?docID=554552&#34;&gt;http://ebookcentral.proquest.com/lib/asulib-ebooks/detail.action?docID=554552&lt;/a&gt;&lt;/div&gt;
+  &lt;span class=&#34;Z3988&#34; title=&#34;url_ver=Z39.88-2004&amp;amp;ctx_ver=Z39.88-2004&amp;amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;amp;rft_id=urn%3Aisbn%3A978-0-7546-9663-6&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;amp;rft.genre=bookitem&amp;amp;rft.atitle=Queer%20Methods%20and%20Methodologies%3A%20An%20Introduction&amp;amp;rft.place=Farnham%2C%20UNITED%20KINGDOM&amp;amp;rft.publisher=Taylor%20%26%20Francis%20Group&amp;amp;rft.aufirst=Catherine%20J.&amp;amp;rft.aulast=Nash&amp;amp;rft.au=Catherine%20J.%20Nash&amp;amp;rft.au=Kath%20Browne&amp;amp;rft.date=2010&amp;amp;rft.isbn=978-0-7546-9663-6&#34;&gt;&lt;/span&gt;
+  &lt;div class=&#34;csl-entry&#34;&gt;Wolfson, T. (n.d.). Strategy Communications and the Switchboard of Struggle. In &lt;i&gt;Digital Rebellion: The Birth of the Cyber Left.&lt;/i&gt;&lt;/div&gt;
+  &lt;span class=&#34;Z3988&#34; title=&#34;url_ver=Z39.88-2004&amp;amp;ctx_ver=Z39.88-2004&amp;amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;amp;rft.genre=bookitem&amp;amp;rft.atitle=Strategy%20Communications%20and%20the%20Switchboard%20of%20Struggle&amp;amp;rft.aufirst=Todd&amp;amp;rft.aulast=Wolfson&amp;amp;rft.au=Todd%20Wolfson&#34;&gt;&lt;/span&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>Open Source PhD: September 2018</title>
       <link>https://nikkistevens.com/posts/open-source-phd-sept-2018/</link>
       <pubDate>Sun, 30 Sep 2018 00:00:00 +0000</pubDate>
       <guid>https://nikkistevens.com/posts/open-source-phd-sept-2018/</guid>
-      <description>Welp, September is the first full month of the semester and it sure felt like it. This fall I&amp;rsquo;m in a class on Surveillance and Society with Marisa Duarte and Andrew Brown, and reading a book a week with Emma Frow.</description>
+      <description>&lt;p&gt;Welp, September is the first full month of the semester and it sure felt like it.  This fall I&amp;rsquo;m in a class on Surveillance and Society with Marisa Duarte and Andrew Brown, and reading a book a week with Emma Frow.  Those are reflected below, in addition to some reading for a journal article I&amp;rsquo;m working on.  Next month, it&amp;rsquo;s back to my second year project and working on reading lists for my comprehensive exams.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Open Source PhD: Summer (May-Aug) 2018</title>
       <link>https://nikkistevens.com/posts/open-source-phd-summer-2018/</link>
       <pubDate>Fri, 31 Aug 2018 00:00:00 +0000</pubDate>
       <guid>https://nikkistevens.com/posts/open-source-phd-summer-2018/</guid>
-      <description>This summer I wrote my second year project. As I gathered items, it didn&amp;rsquo;t make sense to list them all as &amp;ldquo;read&amp;rdquo; since I did a lot of skimming and extracting rather than wholesale reading.</description>
+      <description>&lt;p&gt;This summer I wrote my second year project.  As I gathered items, it didn&amp;rsquo;t make sense to list them all as &amp;ldquo;read&amp;rdquo; since I did a &lt;em&gt;lot&lt;/em&gt; of skimming and extracting rather than wholesale reading.   I&amp;rsquo;ve just sent the first draft of that project to my committee, but I&amp;rsquo;ll be open sourcing everything about that project when it&amp;rsquo;s approved.&lt;/p&gt;</description>
     </item>
     <item>
       <title>TexasCamp 2018 Keynote</title>
       <link>https://nikkistevens.com/posts/texascampkeynote/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       <guid>https://nikkistevens.com/posts/texascampkeynote/</guid>
-      <description>Today, I was honored to give the opening keynote at TexasCamp. The organizing team has done such a good job with this camp that the logistics have become invisible.
-Below is the video of my talk:</description>
+      <description>&lt;p&gt;Today, I was honored to give the opening keynote at &lt;a href=&#34;https://2018.texascamp.org/&#34;&gt;TexasCamp&lt;/a&gt;.  The organizing team has done such a good job with this camp that the logistics have become invisible.&lt;/p&gt;
+&lt;p&gt;Below is the video of my talk:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Open Source PhD: April 2018</title>
       <link>https://nikkistevens.com/posts/open-source-phd-april-2018/</link>
       <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
       <guid>https://nikkistevens.com/posts/open-source-phd-april-2018/</guid>
-      <description>This month, I rewrote my second-year project proposal for the third and fourth times. (First and second iterations happened in January and February). Each complete rewrite brought with it a new or expanded set of literature.</description>
+      <description>&lt;p&gt;This month, I rewrote my second-year project proposal for the third and fourth times. (First and second iterations happened in January and February).  Each complete rewrite brought with it a new or expanded set of literature.  I also spent ten days traveling to DrupalCon Nashville and the Computing Research Association&amp;rsquo;s Grad Women&amp;rsquo;s Cohort.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Recap: DrupalCon Nashville 2018</title>
       <link>https://nikkistevens.com/posts/dcnashville-tweets/</link>
       <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
       <guid>https://nikkistevens.com/posts/dcnashville-tweets/</guid>
-      <description>Before it all evaporates into internet ephemera, and in lieu of a proper blog post, here is my DrupalCon in tweets:
-Great start to the #DrupalCon Community Summit - unconference in progress.</description>
+      <description>&lt;p&gt;Before it all evaporates into internet ephemera, and in lieu of a proper blog post, here is my DrupalCon in tweets:&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;en&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Great start to the &lt;a href=&#34;https://twitter.com/hashtag/DrupalCon?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#DrupalCon&lt;/a&gt; Community Summit - unconference in progress. &lt;a href=&#34;https://t.co/u01siSdB4X&#34;&gt;pic.twitter.com/u01siSdB4X&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>TEDxASU talk</title>
       <link>https://nikkistevens.com/posts/tedxasu/</link>
       <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
       <guid>https://nikkistevens.com/posts/tedxasu/</guid>
-      <description>On March 31, I had the great opportunity to speak at TEDxASU.
-You can watch the video here:</description>
+      <description>&lt;p&gt;On March 31, I had the great opportunity to speak at TEDxASU.&lt;/p&gt;
+&lt;p&gt;You can watch the video here:&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/3P97-uiYWXU&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; encrypted-media&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>Open Source PhD: March 2018</title>
       <link>https://nikkistevens.com/posts/open-source-phd-march-2018/</link>
       <pubDate>Fri, 30 Mar 2018 00:00:00 +0000</pubDate>
       <guid>https://nikkistevens.com/posts/open-source-phd-march-2018/</guid>
-      <description>This month, I spoke at TEDxASU. Preparing for that took nearly all of the time I would have normally spent reading. Oops! In my main seminar, we were assigned a few books instead of a slew of articles, so it&amp;rsquo;s a short list.</description>
+      <description>&lt;p&gt;This month, I spoke at &lt;a href=&#34;https://nikkistevens.com/posts/tedxasu/&#34;&gt;TEDxASU&lt;/a&gt;. Preparing for that took nearly all of the time I would have normally spent reading.  Oops!  In my main seminar, we were assigned a few books instead of a slew of articles, so it&amp;rsquo;s a short list.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sackler Student Fellow Recap</title>
       <link>https://nikkistevens.com/posts/sackler-student-fellows/</link>
       <pubDate>Wed, 14 Mar 2018 00:00:00 +0000</pubDate>
       <guid>https://nikkistevens.com/posts/sackler-student-fellows/</guid>
-      <description>I had the great privilege of being selected as a Sackler Symposium Student Fellow this year. The Fellows Symposium had 48 speakers presenting their work, and it was a long and wonderful whirlwind.</description>
+      <description>&lt;p&gt;I had the great privilege of being selected as a Sackler Symposium Student Fellow this year.  The Fellows Symposium had 48 speakers presenting their work, and it was a long and wonderful whirlwind.  You can see all of it at the early end of the #CreateCollab2018 hashtag.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sackler Symposium</title>
       <link>https://nikkistevens.com/posts/sackler/</link>
       <pubDate>Wed, 14 Mar 2018 00:00:00 +0000</pubDate>
       <guid>https://nikkistevens.com/posts/sackler/</guid>
-      <description>For posterity, a few threads from this past week&amp;rsquo;s Sackler Colloquium.
-Maneesh Agrawala&amp;rsquo;s talk deconstructing data visualizations
-.@magrawala is deconstructing charts and graphs for us at #createcollab2018 @theNASciences
-&amp;mdash; nikki stevens (@drnikki) March 13, 2018 A thread on Fernanda Viegas&amp;rsquo;s talk about Visualization in Machine Learning</description>
+      <description>&lt;p&gt;For posterity, a few threads from this past week&amp;rsquo;s &lt;a href=&#34;http://www.nasonline.org/programs/sackler-colloquia/completed_colloquia/Cybernetic_Serendipity.html&#34;&gt;Sackler Colloquium&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Maneesh Agrawala&amp;rsquo;s talk deconstructing data visualizations&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;en&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;.&lt;a href=&#34;https://twitter.com/magrawala?ref_src=twsrc%5Etfw&#34;&gt;@magrawala&lt;/a&gt; is deconstructing charts and graphs for us at &lt;a href=&#34;https://twitter.com/hashtag/createcollab2018?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#createcollab2018&lt;/a&gt; &lt;a href=&#34;https://twitter.com/theNASciences?ref_src=twsrc%5Etfw&#34;&gt;@theNASciences&lt;/a&gt;&lt;/p&gt;&amp;mdash; nikki stevens (@drnikki) &lt;a href=&#34;https://twitter.com/drnikki/status/973613569836310528?ref_src=twsrc%5Etfw&#34;&gt;March 13, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;p&gt;A thread on Fernanda Viegas&amp;rsquo;s talk about Visualization in Machine Learning&lt;/p&gt;</description>
     </item>
     <item>
       <title>Open Source PhD: February 2018</title>
       <link>https://nikkistevens.com/posts/open-source-phd-feb-2018/</link>
       <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
       <guid>https://nikkistevens.com/posts/open-source-phd-feb-2018/</guid>
-      <description>This month I didn&amp;rsquo;t do a very good job of what I&amp;rsquo;d tried to do last month - which is focus on only a few things. I read widely for a few reasons</description>
+      <description>&lt;p&gt;This month I didn&amp;rsquo;t do a very good job of what I&amp;rsquo;d tried to do last month - which is focus on only a few things.  I read widely for a few reasons&lt;/p&gt;</description>
     </item>
     <item>
       <title>Open Source PhD: January 2018</title>
       <link>https://nikkistevens.com/posts/open-source-phd-jan-2018/</link>
       <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://nikkistevens.com/posts/open-source-phd-jan-2018/</guid>
-      <description>This month, I&amp;rsquo;m focused on getting a few big presentations ready, and writing a three large projects. I&amp;rsquo;m trying not to get interested in anything new (which is hard, because there&amp;rsquo;s so many good and interesting things!</description>
+      <description>&lt;p&gt;This month, I&amp;rsquo;m focused on getting a few big presentations ready, and writing a three large projects.  I&amp;rsquo;m trying not to get interested in anything new (which is hard, because there&amp;rsquo;s so many good and interesting things!), but instead to produce something from all of my questioning last semester.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Writing in the Open</title>
       <link>https://nikkistevens.com/posts/writing-in-the-open/</link>
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://nikkistevens.com/posts/writing-in-the-open/</guid>
-      <description>i write code in public&amp;hellip; Over the semester break, I cleaned up my filing system and archived all of the writing that I did last semester - approximately 30,000 words. As I was putting it away, and sometimes even as I was writing it, I thought - what a shame that I can&amp;rsquo;t do anything else with all of this work&amp;hellip;</description>
+      <description>&lt;h4 id=&#34;i-write-code-in-public&#34;&gt;i write code in public&amp;hellip;&lt;/h4&gt;
+&lt;p&gt;Over the semester break, I cleaned up my filing system and archived all of the writing that I did last semester - approximately 30,000 words.  As I was putting it away, and sometimes even as I was writing it, I thought - what a shame that I can&amp;rsquo;t do anything else with all of this work&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bibliography: Blockchain and whisper networks</title>
       <link>https://nikkistevens.com/posts/block-chain-whisper-network/</link>
       <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://nikkistevens.com/posts/block-chain-whisper-network/</guid>
-      <description>(this was originally posted on the HASTAC website as part of my HASTAC 17-19 Scholars participation.)
-The bibliography that follows is a first iteration of works that I’m gathering to explore epistemological and structural parallels between distributed ledger technology (aka blockchain) and whisper networks (as defined as “An informal chain of conversations among members of an oppressed or marginalized group about oppressors who need to be watched because of predatory behavior” expanded from definition here).</description>
+      <description>&lt;p&gt;&lt;i&gt;(this was &lt;a href=&#34;https://www.hastac.org/blogs/nikkistevens/2018/01/09/bibliography-blockchain-and-whisper-networks&#34;&gt;originally posted&lt;/a&gt; on the HASTAC website as part of my HASTAC 17-19 Scholars participation.)&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;The bibliography that follows is a first iteration of works that I’m gathering to explore epistemological and structural parallels between distributed ledger technology (aka blockchain) and whisper networks (as defined as “An informal chain of conversations among members of an oppressed or marginalized group about oppressors who need to be watched because of predatory behavior” expanded from definition &lt;a href=&#34;“http://www.newsweek.com/what-whisper-network-sexual-misconduct-allegations-719009”&#34;&gt;here&lt;/a&gt;). I’m curious about similar protocols for membership, (de)escalation of information, and shared ownership of knowledge.&amp;nbsp; It seems to me that maybe the blockchain could be a first attempt at digitally representing something close to the organic way that secrets are shared among trusted groups.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Use Zotero to generate an annotated bibliography</title>
       <link>https://nikkistevens.com/posts/zotero-annotated-bibliography/</link>
       <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://nikkistevens.com/posts/zotero-annotated-bibliography/</guid>
-      <description>(this was originally posted on the HASTAC website as part of my HASTAC 17-19 Scholars participation.)
-I started a PhD program this semester, and I vowed not to repeat some of the mistakes of my master&#39;s thesis.</description>
+      <description>&lt;p&gt;&lt;i&gt;(this was &lt;a href=&#34;https://www.hastac.org/blogs/nikkistevens/2018/01/04/generate-annotated-bibliography-zotero&#34;&gt;originally posted&lt;/a&gt; on the HASTAC website as part of my HASTAC 17-19 Scholars participation.)&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;I started a PhD program this semester, and I vowed not to repeat some of the mistakes of my master&#39;s thesis. I mean, I made &lt;em&gt;many&lt;/em&gt; mistakes, but two are relevant here:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Open Source PhD: December 2017</title>
       <link>https://nikkistevens.com/posts/open-source-phd-dec-2017/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://nikkistevens.com/posts/open-source-phd-dec-2017/</guid>
-      <description>The semester is finally over! I made it out without too many tears, and I spent the semester break doing some school reading but mostly I read junk and loved it.</description>
+      <description>&lt;p&gt;The semester is finally over! I made it out without too many tears, and I spent the semester break doing some school reading but mostly I read junk and loved it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Open Source PhD: November 2017</title>
       <link>https://nikkistevens.com/posts/open-source-phd-nov-2017/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       <guid>https://nikkistevens.com/posts/open-source-phd-nov-2017/</guid>
-      <description>November was a shorter school month, and was mostly filled with doing everything I could to get things ready for spring and wrapped up for fall. I did a lot of writing for assignments and projects, and made a conscious effort to not read more than I needed to and to instead work to integrate what I&amp;rsquo;d already read.</description>
+      <description>&lt;p&gt;November was a shorter school month, and was mostly filled with doing everything I could to get things ready for spring and wrapped up for fall. I did a &lt;em&gt;lot&lt;/em&gt; of writing for assignments and projects, and made a conscious effort to not read more than I needed to and to instead work to integrate what I&amp;rsquo;d already read.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Open Source PhD: October 2017</title>
       <link>https://nikkistevens.com/posts/open-source-phd-oct-2017/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       <guid>https://nikkistevens.com/posts/open-source-phd-oct-2017/</guid>
-      <description>I spent October juggling projects (many not my own), and found that I was returning to some fundamental questions that I left unanswered (or didn&amp;rsquo;t answer satisfactorily) at the start of the semester:</description>
+      <description>&lt;p&gt;I spent October juggling projects (many not my own), and found that I was returning to some fundamental questions that I left unanswered (or didn&amp;rsquo;t answer satisfactorily) at the start of the semester:&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Honest Broker</title>
       <link>https://nikkistevens.com/posts/honest-broker/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       <guid>https://nikkistevens.com/posts/honest-broker/</guid>
-      <description>Sharing some thoughts about Robert Pielke&amp;rsquo;s The Honest Broker and whether it&amp;rsquo;s applicable to technology contexts.
-Often, when we talk about science and technology, we talk about them as one field: “science and technology.</description>
+      <description>&lt;p&gt;Sharing some thoughts about Robert Pielke&amp;rsquo;s &lt;a href=&#34;https://www.amazon.com/Honest-Broker-Making-Science-Politics/dp/0521694817&#34;&gt;&lt;em&gt;The Honest Broker&lt;/em&gt;&lt;/a&gt; and whether it&amp;rsquo;s applicable to technology contexts.&lt;/p&gt;
+&lt;p&gt;Often, when we talk about science and technology, we talk about them as one field: “science and technology.”  We acknowledge the imaginaries of both and then combine them into an even more monolithic imaginary of S&amp;amp;T.  However, Pielke only discusses science.  What, then, of technology in his framework?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Open Source PhD: September 2017</title>
       <link>https://nikkistevens.com/posts/open-source-phd-sept-2017/</link>
       <pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate>
       <guid>https://nikkistevens.com/posts/open-source-phd-sept-2017/</guid>
-      <description>I spent September struggling to stay afloat. The way work was structured, I was able to spend time thinking about fewer ideas, but exploring them more fully. This month, those ideas were:</description>
+      <description>&lt;p&gt;I spent September struggling to stay afloat.  The way work was structured, I was able to spend time thinking about fewer ideas, but exploring them more fully.  This month, those ideas were:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Open Source Summit Recap</title>
       <link>https://nikkistevens.com/posts/ossummit/</link>
       <pubDate>Fri, 15 Sep 2017 00:00:00 +0000</pubDate>
       <guid>https://nikkistevens.com/posts/ossummit/</guid>
-      <description>Before it all evaporates into internet ephemera, and in lieu of a proper blog post, here is my OSSummit in tweets:
-Say hi if you are also at #OSSummit pic.twitter.com/hpr0xOLYgH</description>
+      <description>&lt;p&gt;Before it all evaporates into internet ephemera, and in lieu of a proper blog post, here is my OSSummit in tweets:&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;en&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Say hi if you are also at &lt;a href=&#34;https://twitter.com/hashtag/OSSummit?src=hash&#34;&gt;#OSSummit&lt;/a&gt; &lt;a href=&#34;https://t.co/hpr0xOLYgH&#34;&gt;pic.twitter.com/hpr0xOLYgH&lt;/a&gt;&lt;/p&gt;&amp;mdash; nikki stevens (@drnikki) &lt;a href=&#34;https://twitter.com/drnikki/status/907383087092215809&#34;&gt;September 11, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;en&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;.&lt;a href=&#34;https://twitter.com/realdanlyons&#34;&gt;@realdanlyons&lt;/a&gt; is 💥💣talking about the toxicity of startups and the gig economy at &lt;a href=&#34;https://twitter.com/hashtag/OSSummit?src=hash&#34;&gt;#OSSummit&lt;/a&gt; &lt;a href=&#34;https://t.co/UGz93CCPEY&#34;&gt;pic.twitter.com/UGz93CCPEY&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Open Source PhD: August 2017</title>
       <link>https://nikkistevens.com/posts/open-source-phd-aug-2017/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       <guid>https://nikkistevens.com/posts/open-source-phd-aug-2017/</guid>
-      <description>I spent August getting used to being back in class, and thinking about:
-how do engineers think about engineering ethics on a day-to-day basis (if at all)? just because we can build something, does that mean we should?</description>
+      <description>&lt;p&gt;I spent August getting used to being back in class, and thinking about:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;how do engineers think about engineering ethics on a day-to-day basis (if at all)?&lt;/li&gt;
+&lt;li&gt;just because we can build something, does that mean we should?&lt;/li&gt;
+&lt;li&gt;do engineering ethics stop with the technological product (in the case of software) or do they extend to the interactions engineers have with each other?&lt;/li&gt;
+&lt;li&gt;why did the engineering profession develop in the way that it did?&lt;/li&gt;
+&lt;li&gt;and (as always) what role does capitalism play in any of the above?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+Below is a list of books and articles I read this month.
+&lt;div class=&#34;csl-bib-body&#34; style=&#34;line-height: 2; margin-left: 2em; text-indent:-2em;&#34;&gt;
+  &lt;div class=&#34;csl-entry&#34;&gt;Angwin, J., Savage, C., Larson, J., Moltke, H., Poitras, L., &amp;amp; Risen, J. (2015, August 15). AT&amp;amp;T Helped U.S. Spy on Internet on a Vast Scale. &lt;i&gt;The New York Times&lt;/i&gt;. Retrieved from https://www.nytimes.com/2015/08/16/us/politics/att-helped-nsa-spy-on-an-array-of-internet-traffic.html&lt;/div&gt;
+  &lt;span class=&#34;Z3988&#34; title=&#34;url_ver=Z39.88-2004&amp;amp;ctx_ver=Z39.88-2004&amp;amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;amp;rft.type=newspaperArticle&amp;amp;rft.title=AT%26T%20Helped%20U.S.%20Spy%20on%20Internet%20on%20a%20Vast%20Scale&amp;amp;rft.source=The%20New%20York%20Times&amp;amp;rft.description=Newly%20disclosed%20N.S.A.%20documents%20show%20that%20the%20agency%20gained%20access%20to%20billions%20of%20emails%20through%20a%20%E2%80%9Chighly%20collaborative%E2%80%9D%20relationship%20with%20AT%26T.&amp;amp;rft.identifier=https%3A%2F%2Fwww.nytimes.com%2F2015%2F08%2F16%2Fus%2Fpolitics%2Fatt-helped-nsa-spy-on-an-array-of-internet-traffic.html&amp;amp;rft.aufirst=Julia&amp;amp;rft.aulast=Angwin&amp;amp;rft.au=Julia%20Angwin&amp;amp;rft.au=Charlie%20Savage&amp;amp;rft.au=Jeff%20Larson&amp;amp;rft.au=Henrik%20Moltke&amp;amp;rft.au=Laura%20Poitras&amp;amp;rft.au=James%20Risen&amp;amp;rft.date=2015-08-15&amp;amp;rft.issn=0362-4331&amp;amp;rft.language=en-US&#34;&gt;&lt;/span&gt;
+  &lt;div class=&#34;csl-entry&#34;&gt;ASCE Code of Ethics. (2006).&lt;/div&gt;
+  &lt;span class=&#34;Z3988&#34; title=&#34;url_ver=Z39.88-2004&amp;amp;ctx_ver=Z39.88-2004&amp;amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;amp;rft.type=document&amp;amp;rft.title=ASCE%20Code%20of%20Ethics&amp;amp;rft.date=2006&#34;&gt;&lt;/span&gt;
+  &lt;div class=&#34;csl-entry&#34;&gt;Barry-Jester, A. M., Casselman, B., &amp;amp; Goldstein, D. (2015, August 4). Should Prison Sentences Be Based On Crimes That Haven’t Been Committed Yet? Retrieved from https://fivethirtyeight.com/features/prison-reform-risk-assessment/&lt;/div&gt;
+  &lt;span class=&#34;Z3988&#34; title=&#34;url_ver=Z39.88-2004&amp;amp;ctx_ver=Z39.88-2004&amp;amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;amp;rft.type=blogPost&amp;amp;rft.title=Should%20Prison%20Sentences%20Be%20Based%20On%20Crimes%20That%20Haven%E2%80%99t%20Been%20Committed%20Yet%3F&amp;amp;rft.description=The%20new%20science%20of%20sentencing.&amp;amp;rft.identifier=https%3A%2F%2Ffivethirtyeight.com%2Ffeatures%2Fprison-reform-risk-assessment%2F&amp;amp;rft.aufirst=Anna%20Maria&amp;amp;rft.aulast=Barry-Jester&amp;amp;rft.au=Anna%20Maria%20Barry-Jester&amp;amp;rft.au=Ben%20Casselman&amp;amp;rft.au=Dana%20Goldstein&amp;amp;rft.date=2015-08-04&#34;&gt;&lt;/span&gt;
+  &lt;div class=&#34;csl-entry&#34;&gt;Beiser, V. (n.d.). The Deadly Global War for Sand. Retrieved from https://www.wired.com/2015/03/illegal-sand-mining/&lt;/div&gt;
+  &lt;span class=&#34;Z3988&#34; title=&#34;url_ver=Z39.88-2004&amp;amp;ctx_ver=Z39.88-2004&amp;amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;amp;rft.type=webpage&amp;amp;rft.title=The%20Deadly%20Global%20War%20for%20Sand&amp;amp;rft.description=The%20global%20demand%20for%20plain%20old%20sand%20is%20so%20high%20that%20illegal%20mines%20are%20everywhere%2C%20and%20mafias%20around%20the%20world%20are%20killing%20for%20the%20stuff.&amp;amp;rft.identifier=https%3A%2F%2Fwww.wired.com%2F2015%2F03%2Fillegal-sand-mining%2F&amp;amp;rft.aufirst=Vince&amp;amp;rft.aulast=Beiser&amp;amp;rft.au=Vince%20Beiser&#34;&gt;&lt;/span&gt;
+  &lt;div class=&#34;csl-entry&#34;&gt;Chełkowski, T., Gloor, P., &amp;amp; Jemielniak, D. (2016). Inequalities in Open Source Software Development: Analysis of Contributor’s Commits in Apache Software Foundation Projects. &lt;i&gt;PLOS ONE&lt;/i&gt;, &lt;i&gt;11&lt;/i&gt;(4), e0152976. https://doi.org/10.1371/journal.pone.0152976&lt;/div&gt;
+  &lt;span class=&#34;Z3988&#34; title=&#34;url_ver=Z39.88-2004&amp;amp;ctx_ver=Z39.88-2004&amp;amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;amp;rft_id=info%3Adoi%2F10.1371%2Fjournal.pone.0152976&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;amp;rft.genre=article&amp;amp;rft.atitle=Inequalities%20in%20Open%20Source%20Software%20Development%3A%20Analysis%20of%20Contributor%E2%80%99s%20Commits%20in%20Apache%20Software%20Foundation%20Projects&amp;amp;rft.jtitle=PLOS%20ONE&amp;amp;rft.volume=11&amp;amp;rft.issue=4&amp;amp;rft.aufirst=Tadeusz&amp;amp;rft.aulast=Che%C5%82kowski&amp;amp;rft.au=Tadeusz%20Che%C5%82kowski&amp;amp;rft.au=Peter%20Gloor&amp;amp;rft.au=Dariusz%20Jemielniak&amp;amp;rft.au=Christophe%20Antoniewski&amp;amp;rft.date=2016-04-20&amp;amp;rft.pages=e0152976&amp;amp;rft.issn=1932-6203&amp;amp;rft.language=en&#34;&gt;&lt;/span&gt;
+  &lt;div class=&#34;csl-entry&#34;&gt;Downey, G. L. (2007). Low Cost, Mass Use: American Engineers and the Metrics of Progress. &lt;i&gt;History and Technology&lt;/i&gt;, &lt;i&gt;23&lt;/i&gt;(3), 289–308. https://doi.org/10.1080/07341510701300387&lt;/div&gt;
+  &lt;span class=&#34;Z3988&#34; title=&#34;url_ver=Z39.88-2004&amp;amp;ctx_ver=Z39.88-2004&amp;amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;amp;rft_id=info%3Adoi%2F10.1080%2F07341510701300387&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;amp;rft.genre=article&amp;amp;rft.atitle=Low%20Cost%2C%20Mass%20Use%3A%20American%20Engineers%20and%20the%20Metrics%20of%20Progress&amp;amp;rft.jtitle=History%20and%20Technology&amp;amp;rft.volume=23&amp;amp;rft.issue=3&amp;amp;rft.aufirst=Gary%20Lee&amp;amp;rft.aulast=Downey&amp;amp;rft.au=Gary%20Lee%20Downey&amp;amp;rft.date=2007-09&amp;amp;rft.pages=289-308&amp;amp;rft.spage=289&amp;amp;rft.epage=308&amp;amp;rft.issn=0734-1512%2C%201477-2620&amp;amp;rft.language=en&#34;&gt;&lt;/span&gt;
+  &lt;div class=&#34;csl-entry&#34;&gt;Epstein, S. (1996). Drugs Into Bodies. In &lt;i&gt;Impure Science: AIDS, Activism, and the Politics of Knowledge&lt;/i&gt; (pp. 208–234). University of California Press.&lt;/div&gt;
+  &lt;span class=&#34;Z3988&#34; title=&#34;url_ver=Z39.88-2004&amp;amp;ctx_ver=Z39.88-2004&amp;amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;amp;rft_id=urn%3Aisbn%3A978-0-520-92125-2&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;amp;rft.genre=bookitem&amp;amp;rft.atitle=Drugs%20Into%20Bodies&amp;amp;rft.publisher=University%20of%20California%20Press&amp;amp;rft.aufirst=Steven&amp;amp;rft.aulast=Epstein&amp;amp;rft.au=Steven%20Epstein&amp;amp;rft.date=1996-12-09&amp;amp;rft.pages=208-234&amp;amp;rft.spage=208&amp;amp;rft.epage=234&amp;amp;rft.isbn=978-0-520-92125-2&amp;amp;rft.language=en&#34;&gt;&lt;/span&gt;
+  &lt;div class=&#34;csl-entry&#34;&gt;Franklin, S. (2007). Origins. In &lt;i&gt;Dolly Mixtures: The Remaking of Genealogy&lt;/i&gt; (pp. 1–45). Duke University Press.&lt;/div&gt;
+  &lt;span class=&#34;Z3988&#34; title=&#34;url_ver=Z39.88-2004&amp;amp;ctx_ver=Z39.88-2004&amp;amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;amp;rft_id=urn%3Aisbn%3A978-0-8223-3920-5&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;amp;rft.genre=bookitem&amp;amp;rft.atitle=Origins&amp;amp;rft.publisher=Duke%20University%20Press&amp;amp;rft.aufirst=Sarah&amp;amp;rft.aulast=Franklin&amp;amp;rft.au=Sarah%20Franklin&amp;amp;rft.date=2007-04-11&amp;amp;rft.pages=1-45&amp;amp;rft.spage=1&amp;amp;rft.epage=45&amp;amp;rft.isbn=978-0-8223-3920-5&amp;amp;rft.language=en&#34;&gt;&lt;/span&gt;
+  &lt;div class=&#34;csl-entry&#34;&gt;Gusterson, H. (1999). Nuclear Weapons and the Other in the Western Imagination. &lt;i&gt;Cultural Anthropology&lt;/i&gt;, &lt;i&gt;14&lt;/i&gt;(1), 111–143. https://doi.org/10.1525/can.1999.14.1.111&lt;/div&gt;
+  &lt;span class=&#34;Z3988&#34; title=&#34;url_ver=Z39.88-2004&amp;amp;ctx_ver=Z39.88-2004&amp;amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;amp;rft_id=info%3Adoi%2F10.1525%2Fcan.1999.14.1.111&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;amp;rft.genre=article&amp;amp;rft.atitle=Nuclear%20Weapons%20and%20the%20Other%20in%20the%20Western%20Imagination&amp;amp;rft.jtitle=Cultural%20Anthropology&amp;amp;rft.volume=14&amp;amp;rft.issue=1&amp;amp;rft.aufirst=Hugh&amp;amp;rft.aulast=Gusterson&amp;amp;rft.au=Hugh%20Gusterson&amp;amp;rft.date=1999-02-01&amp;amp;rft.pages=111-143&amp;amp;rft.spage=111&amp;amp;rft.epage=143&amp;amp;rft.issn=1548-1360&amp;amp;rft.language=en&#34;&gt;&lt;/span&gt;
+  &lt;div class=&#34;csl-entry&#34;&gt;Hudson, M. (n.d.). Kosovars Who Rebuilt War-Torn Village Face New Threat As World Bank Considers Coal-Burning Power Plant. Retrieved from http://projects.huffingtonpost.com/projects/worldbank-evicted-abandoned/kosovo-war-torn-village-coal-burning-power-plant&lt;/div&gt;
+  &lt;span class=&#34;Z3988&#34; title=&#34;url_ver=Z39.88-2004&amp;amp;ctx_ver=Z39.88-2004&amp;amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;amp;rft.type=webpage&amp;amp;rft.title=Kosovars%20Who%20Rebuilt%20War-Torn%20Village%20Face%20New%20Threat%20As%20World%20Bank%20Considers%20Coal-Burning%20Power%20Plant&amp;amp;rft.description=In%20Kosovo%2C%20a%20state-owned%20energy%20company%20plans%20to%20destroy%20a%20village%20to%20make%20way%20for%20expanded%20coal%20mining%20as%20the%20government%20and%20the%20World%20Bank%20plan%20for%20a%20proposed%20coal-burning%20power%20plant.%20The%20government%20has%20already%20forced%20roughly%201%2C000%20residents%20from%20their%20homes.%20Many%20former%20residents%20claim%20officials%20violated%20World%20Bank%20policy%20requiring%20borrowers%20to%20restore%20their%20living%20conditions%20at%20equal%20or%20improved%20standards.%20The%20bank%20has%20distanced%20itself%20from%20the%20evictions%2C%20leaving%20residents%20alone%20as%20they%20seek%20compensation%20from%20a%20government%20bent%20razing%20their%20town.&amp;amp;rft.identifier=http%3A%2F%2Fprojects.huffingtonpost.com%2Fprojects%2Fworldbank-evicted-abandoned%2Fkosovo-war-torn-village-coal-burning-power-plant&amp;amp;rft.aufirst=Michael&amp;amp;rft.aulast=Hudson&amp;amp;rft.au=Michael%20Hudson&#34;&gt;&lt;/span&gt;
+  &lt;div class=&#34;csl-entry&#34;&gt;Kelty, C. (2005). Geeks, Social Imaginaries, and Recursive Publics. &lt;i&gt;Cultural Anthropology&lt;/i&gt;, &lt;i&gt;20&lt;/i&gt;(2), 185–214. https://doi.org/10.1525/can.2005.20.2.185&lt;/div&gt;
+  &lt;span class=&#34;Z3988&#34; title=&#34;url_ver=Z39.88-2004&amp;amp;ctx_ver=Z39.88-2004&amp;amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;amp;rft_id=info%3Adoi%2F10.1525%2Fcan.2005.20.2.185&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;amp;rft.genre=article&amp;amp;rft.atitle=Geeks%2C%20Social%20Imaginaries%2C%20and%20Recursive%20Publics&amp;amp;rft.jtitle=Cultural%20Anthropology&amp;amp;rft.volume=20&amp;amp;rft.issue=2&amp;amp;rft.aufirst=Christopher&amp;amp;rft.aulast=Kelty&amp;amp;rft.au=Christopher%20Kelty&amp;amp;rft.date=2005-05&amp;amp;rft.pages=185-214&amp;amp;rft.spage=185&amp;amp;rft.epage=214&amp;amp;rft.issn=0886-7356%2C%201548-1360&amp;amp;rft.language=en&#34;&gt;&lt;/span&gt;
+  &lt;div class=&#34;csl-entry&#34;&gt;Layton, E. T. (1971). &lt;i&gt;Revolt of the Engineers: Social Responsibility and the American Engineering Profession&lt;/i&gt; (1st edition, edition). Cleveland: Case Western Reserve University Press.&lt;/div&gt;
+  &lt;span class=&#34;Z3988&#34; title=&#34;url_ver=Z39.88-2004&amp;amp;ctx_ver=Z39.88-2004&amp;amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;amp;rft_id=urn%3Aisbn%3A978-0-8295-0200-8&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;amp;rft.genre=book&amp;amp;rft.btitle=Revolt%20of%20the%20Engineers%3A%20Social%20Responsibility%20and%20the%20American%20Engineering%20Profession&amp;amp;rft.place=Cleveland&amp;amp;rft.publisher=Case%20Western%20Reserve%20University%20Press&amp;amp;rft.edition=1st%20edition%2C%20edition&amp;amp;rft.aufirst=Edwin%20T.&amp;amp;rft.aulast=Layton&amp;amp;rft.au=Edwin%20T.%20Layton&amp;amp;rft.date=1971-05&amp;amp;rft.tpages=352&amp;amp;rft.isbn=978-0-8295-0200-8&amp;amp;rft.language=English&#34;&gt;&lt;/span&gt;
+  &lt;div class=&#34;csl-entry&#34;&gt;Mehlman, A. (2015, August). The Genesis Engine. Retrieved from https://www.wired.com/2015/07/crispr-dna-editing-2/&lt;/div&gt;
+  &lt;span class=&#34;Z3988&#34; title=&#34;url_ver=Z39.88-2004&amp;amp;ctx_ver=Z39.88-2004&amp;amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;amp;rft.type=webpage&amp;amp;rft.title=The%20Genesis%20Engine&amp;amp;rft.description=Editing%20DNA%20is%20now%20cut-and-paste.%20We%20could%20eliminate%20disease%2C%20cure%20hunger%E2%80%94or%20break%20the%20world.&amp;amp;rft.identifier=https%3A%2F%2Fwww.wired.com%2F2015%2F07%2Fcrispr-dna-editing-2%2F&amp;amp;rft.aufirst=Amy&amp;amp;rft.aulast=Mehlman&amp;amp;rft.au=Amy%20Mehlman&amp;amp;rft.date=2015-08&#34;&gt;&lt;/span&gt;
+  &lt;div class=&#34;csl-entry&#34;&gt;Miller, C. (2015). Knowledge and Democracy: The Epistemics of Self-Governance. In &lt;i&gt;Science and Democracy: Making Knowledge and Making Power in the Biosciences and Beyond.&lt;/i&gt; (pp. 198–219). London: Routledge.&lt;/div&gt;
+  &lt;span class=&#34;Z3988&#34; title=&#34;url_ver=Z39.88-2004&amp;amp;ctx_ver=Z39.88-2004&amp;amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;amp;rft.genre=bookitem&amp;amp;rft.atitle=Knowledge%20and%20Democracy%3A%20The%20Epistemics%20of%20Self-Governance&amp;amp;rft.place=London&amp;amp;rft.publisher=Routledge&amp;amp;rft.aufirst=Clark&amp;amp;rft.aulast=Miller&amp;amp;rft.au=Clark%20Miller&amp;amp;rft.date=2015&amp;amp;rft.pages=198-219&amp;amp;rft.spage=198&amp;amp;rft.epage=219&#34;&gt;&lt;/span&gt;
+  &lt;div class=&#34;csl-entry&#34;&gt;Naparat, D., Finnegan, P., &amp;amp; Cahalane, M. (2015). Healthy Community and Healthy Commons: ‘Opensourcing’ as a Sustainable Model of Software Production. &lt;i&gt;Australasian Journal of Information Systems&lt;/i&gt;, &lt;i&gt;19&lt;/i&gt;(0). https://doi.org/10.3127/ajis.v19i0.1221&lt;/div&gt;
+  &lt;span class=&#34;Z3988&#34; title=&#34;url_ver=Z39.88-2004&amp;amp;ctx_ver=Z39.88-2004&amp;amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;amp;rft_id=info%3Adoi%2F10.3127%2Fajis.v19i0.1221&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;amp;rft.genre=article&amp;amp;rft.atitle=Healthy%20Community%20and%20Healthy%20Commons%3A%20%E2%80%98Opensourcing%E2%80%99%20as%20a%20Sustainable%20Model%20of%20Software%20Production&amp;amp;rft.jtitle=Australasian%20Journal%20of%20Information%20Systems&amp;amp;rft.volume=19&amp;amp;rft.issue=0&amp;amp;rft.aufirst=Damrongsak&amp;amp;rft.aulast=Naparat&amp;amp;rft.au=Damrongsak%20Naparat&amp;amp;rft.au=Patrick%20Finnegan&amp;amp;rft.au=Michael%20Cahalane&amp;amp;rft.date=2015-11-22&amp;amp;rft.issn=1449-8618&amp;amp;rft.language=en&#34;&gt;&lt;/span&gt;
+  &lt;div class=&#34;csl-entry&#34;&gt;Noble, D. F. (1979). &lt;i&gt;America by Design: Science, Technology, and the Rise of Corporate Capitalism&lt;/i&gt;. Oxford: Oxford University Press.&lt;/div&gt;
+  &lt;span class=&#34;Z3988&#34; title=&#34;url_ver=Z39.88-2004&amp;amp;ctx_ver=Z39.88-2004&amp;amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;amp;rft_id=urn%3Aisbn%3A978-0-19-502618-4&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;amp;rft.genre=book&amp;amp;rft.btitle=America%20by%20Design%3A%20Science%2C%20Technology%2C%20and%20the%20Rise%20of%20Corporate%20Capitalism&amp;amp;rft.place=Oxford&amp;amp;rft.publisher=Oxford%20University%20Press&amp;amp;rft.aufirst=David%20F.&amp;amp;rft.aulast=Noble&amp;amp;rft.au=David%20F.%20Noble&amp;amp;rft.date=1979-09-20&amp;amp;rft.tpages=416&amp;amp;rft.isbn=978-0-19-502618-4&amp;amp;rft.language=English&#34;&gt;&lt;/span&gt;
+  &lt;div class=&#34;csl-entry&#34;&gt;Pollan, M. (2009, July 29). Out of the Kitchen, Onto the Couch. &lt;i&gt;The New York Times&lt;/i&gt;. Retrieved from https://www.nytimes.com/2009/08/02/magazine/02cooking-t.html&lt;/div&gt;
+  &lt;span class=&#34;Z3988&#34; title=&#34;url_ver=Z39.88-2004&amp;amp;ctx_ver=Z39.88-2004&amp;amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;amp;rft.type=newspaperArticle&amp;amp;rft.title=Out%20of%20the%20Kitchen%2C%20Onto%20the%20Couch&amp;amp;rft.source=The%20New%20York%20Times&amp;amp;rft.description=How%20American%20cooking%20became%20a%20spectator%20sport%2C%20and%20what%20we%20lost%20along%20the%20way.&amp;amp;rft.identifier=https%3A%2F%2Fwww.nytimes.com%2F2009%2F08%2F02%2Fmagazine%2F02cooking-t.html&amp;amp;rft.aufirst=Michael&amp;amp;rft.aulast=Pollan&amp;amp;rft.au=Michael%20Pollan&amp;amp;rft.date=2009-07-29&amp;amp;rft.issn=0362-4331&amp;amp;rft.language=en-US&#34;&gt;&lt;/span&gt;
+  &lt;div class=&#34;csl-entry&#34;&gt;Rajan, K. S. (2003). Genomic Capital: Public Cultures and Market Logics of Corporate Biotechnology. &lt;i&gt;Science as Culture&lt;/i&gt;, &lt;i&gt;12&lt;/i&gt;(1), 87–121. https://doi.org/10.1080/0950543032000062272&lt;/div&gt;
+  &lt;span class=&#34;Z3988&#34; title=&#34;url_ver=Z39.88-2004&amp;amp;ctx_ver=Z39.88-2004&amp;amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;amp;rft_id=info%3Adoi%2F10.1080%2F0950543032000062272&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;amp;rft.genre=article&amp;amp;rft.atitle=Genomic%20Capital%3A%20Public%20Cultures%20and%20Market%20Logics%20of%20Corporate%20Biotechnology&amp;amp;rft.jtitle=Science%20as%20Culture&amp;amp;rft.volume=12&amp;amp;rft.issue=1&amp;amp;rft.aufirst=Kaushik%20Sunder&amp;amp;rft.aulast=Rajan&amp;amp;rft.au=Kaushik%20Sunder%20Rajan&amp;amp;rft.date=2003-03&amp;amp;rft.pages=87-121&amp;amp;rft.spage=87&amp;amp;rft.epage=121&amp;amp;rft.issn=0950-5431%2C%201470-1189&amp;amp;rft.language=en&#34;&gt;&lt;/span&gt;
+  &lt;div class=&#34;csl-entry&#34;&gt;Schmalzer, S. (2017). Teaching the History of Radical Science with Materials on Science for the People (1969–1989). &lt;i&gt;Radical History Review&lt;/i&gt;, &lt;i&gt;2017&lt;/i&gt;(127), 173–179. https://doi.org/10.1215/01636545-3690943&lt;/div&gt;
+  &lt;span class=&#34;Z3988&#34; title=&#34;url_ver=Z39.88-2004&amp;amp;ctx_ver=Z39.88-2004&amp;amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;amp;rft_id=info%3Adoi%2F10.1215%2F01636545-3690943&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;amp;rft.genre=article&amp;amp;rft.atitle=Teaching%20the%20History%20of%20Radical%20Science%20with%20Materials%20on%20Science%20for%20the%20People%20(1969%E2%80%931989)&amp;amp;rft.jtitle=Radical%20History%20Review&amp;amp;rft.volume=2017&amp;amp;rft.issue=127&amp;amp;rft.aufirst=Sigrid&amp;amp;rft.aulast=Schmalzer&amp;amp;rft.au=Sigrid%20Schmalzer&amp;amp;rft.date=2017-01&amp;amp;rft.pages=173-179&amp;amp;rft.spage=173&amp;amp;rft.epage=179&amp;amp;rft.issn=0163-6545%2C%201534-1453&amp;amp;rft.language=en&#34;&gt;&lt;/span&gt;
+  &lt;div class=&#34;csl-entry&#34;&gt;Sclove, R. E. (1995). &lt;i&gt;Democracy and Technology&lt;/i&gt; (1 edition). New York: The Guilford Press.&lt;/div&gt;
+  &lt;span class=&#34;Z3988&#34; title=&#34;url_ver=Z39.88-2004&amp;amp;ctx_ver=Z39.88-2004&amp;amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;amp;rft_id=urn%3Aisbn%3A978-0-89862-861-6&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;amp;rft.genre=book&amp;amp;rft.btitle=Democracy%20and%20Technology&amp;amp;rft.place=New%20York&amp;amp;rft.publisher=The%20Guilford%20Press&amp;amp;rft.edition=1%20edition&amp;amp;rft.aufirst=Richard%20E.&amp;amp;rft.aulast=Sclove&amp;amp;rft.au=Richard%20E.%20Sclove&amp;amp;rft.date=1995-07-28&amp;amp;rft.tpages=338&amp;amp;rft.isbn=978-0-89862-861-6&amp;amp;rft.language=English&#34;&gt;&lt;/span&gt;
+  &lt;div class=&#34;csl-entry&#34;&gt;&lt;i&gt;UCS Founding Document&lt;/i&gt;. (n.d.).&lt;/div&gt;
+  &lt;span class=&#34;Z3988&#34; title=&#34;url_ver=Z39.88-2004&amp;amp;ctx_ver=Z39.88-2004&amp;amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;amp;rft.type=manuscript&amp;amp;rft.title=UCS%20Founding%20Document&amp;amp;rft.description=by%20MIT%20people%20-%20Union%20of%20Concerned%20Scientists&#34;&gt;&lt;/span&gt;
+  &lt;div class=&#34;csl-entry&#34;&gt;van de Poel, I., &amp;amp; Verbeek, P.-P. (2006). Editorial: Ethics and Engineering Design. &lt;i&gt;Science, Technology, &amp;amp; Human Values&lt;/i&gt;, &lt;i&gt;31&lt;/i&gt;(3), 223–236. https://doi.org/10.1177/0162243905285838&lt;/div&gt;
+  &lt;span class=&#34;Z3988&#34; title=&#34;url_ver=Z39.88-2004&amp;amp;ctx_ver=Z39.88-2004&amp;amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;amp;rft_id=info%3Adoi%2F10.1177%2F0162243905285838&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;amp;rft.genre=article&amp;amp;rft.atitle=Editorial%3A%20Ethics%20and%20Engineering%20Design&amp;amp;rft.jtitle=Science%2C%20Technology%2C%20%26%20Human%20Values&amp;amp;rft.volume=31&amp;amp;rft.issue=3&amp;amp;rft.aufirst=Ibo&amp;amp;rft.aulast=van%20de%20Poel&amp;amp;rft.au=Ibo%20van%20de%20Poel&amp;amp;rft.au=Peter-Paul%20Verbeek&amp;amp;rft.date=2006-05&amp;amp;rft.pages=223-236&amp;amp;rft.spage=223&amp;amp;rft.epage=236&amp;amp;rft.issn=0162-2439%2C%201552-8251&amp;amp;rft.language=en&#34;&gt;&lt;/span&gt;
+  &lt;div class=&#34;csl-entry&#34;&gt;Watered-Down Gen Ed for Engineers? (n.d.). Retrieved September 5, 2017, from https://www.insidehighered.com/news/2015/06/26/faculty-members-criticize-proposed-changes-gen-ed-accreditation-standards-engineers&lt;/div&gt;
+  &lt;span class=&#34;Z3988&#34; title=&#34;url_ver=Z39.88-2004&amp;amp;ctx_ver=Z39.88-2004&amp;amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;amp;rft.type=webpage&amp;amp;rft.title=Watered-Down%20Gen%20Ed%20for%20Engineers%3F&amp;amp;rft.description=Critics%20say%20proposed%20changes%20to%20accreditation%20standards%20for%20general%20education%20dilute%20the%20competencies%20that%20give%20U.S.-trained%20students%20a%20competitive%20edge.%20Accreditor%2C%20meanwhile%2C%20says%20new%20standards%20will%20lead%20to%20easier%20assessment%20of%20outcomes%20and%20more%20innovation%20in%20teaching.&amp;amp;rft.identifier=https%3A%2F%2Fwww.insidehighered.com%2Fnews%2F2015%2F06%2F26%2Ffaculty-members-criticize-proposed-changes-gen-ed-accreditation-standards-engineers&#34;&gt;&lt;/span&gt;
+  &lt;div class=&#34;csl-entry&#34;&gt;Zou, L., &amp;amp; Cheryan, S. (2015). When Whites’ Attempts to Be Multicultural Backfire in Intergroup Interactions. &lt;i&gt;Social and Personality Psychology Compass&lt;/i&gt;, &lt;i&gt;9&lt;/i&gt;(11), 581–592. https://doi.org/10.1111/spc3.12203&lt;/div&gt;
+  &lt;span class=&#34;Z3988&#34; title=&#34;url_ver=Z39.88-2004&amp;amp;ctx_ver=Z39.88-2004&amp;amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;amp;rft_id=info%3Adoi%2F10.1111%2Fspc3.12203&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;amp;rft.genre=article&amp;amp;rft.atitle=When%20Whites&#39;%20Attempts%20to%20Be%20Multicultural%20Backfire%20in%20Intergroup%20Interactions&amp;amp;rft.jtitle=Social%20and%20Personality%20Psychology%20Compass&amp;amp;rft.volume=9&amp;amp;rft.issue=11&amp;amp;rft.aufirst=Linda&amp;amp;rft.aulast=Zou&amp;amp;rft.au=Linda%20Zou&amp;amp;rft.au=Sapna%20Cheryan&amp;amp;rft.date=2015&amp;amp;rft.pages=581-592&amp;amp;rft.spage=581&amp;amp;rft.epage=592&#34;&gt;&lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Open Source PhD: July 2017</title>
       <link>https://nikkistevens.com/posts/open-source-phd-july-2017/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       <guid>https://nikkistevens.com/posts/open-source-phd-july-2017/</guid>
-      <description>I spent July thinking about open source community health:
-how do measures of open source project success interact with measures of community health? (they don&amp;rsquo;t, because no measures of community health exist) what would a &amp;ldquo;healthy&amp;rdquo; open source community look like?</description>
+      <description>&lt;p&gt;I spent July thinking about open source community health:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;how do measures of open source project success interact with measures of community health? (they don&amp;rsquo;t, because no measures of community health exist)&lt;/li&gt;
+&lt;li&gt;what would a &amp;ldquo;healthy&amp;rdquo; open source community look like?&lt;/li&gt;
+&lt;li&gt;who has the right to determine what is healthy and for whom?&lt;/li&gt;
+&lt;li&gt;how can we design a study to measure community health in a way that centers voices not typically heard in tech.&lt;/li&gt;
+&lt;li&gt;if we make communities &amp;lsquo;healthy,&amp;rsquo; will they also become safer for marginalized folks?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Below is a list of books and articles I read this month.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Open Source PhD: June 2017</title>
       <link>https://nikkistevens.com/posts/open-source-phd-june-2017/</link>
       <pubDate>Sat, 24 Jun 2017 00:00:00 +0000</pubDate>
       <guid>https://nikkistevens.com/posts/open-source-phd-june-2017/</guid>
-      <description>I have often thought, &amp;ldquo;I wish I knew what people in [insert name of PhD program] were reading.&amp;rdquo; because I wanted to do that same reading. Some courses had syllabi available, some had notes, but it was hard to get a sense of the themes that were being discussed.</description>
+      <description>&lt;p&gt;I have often thought, &amp;ldquo;I wish I knew what people in [insert name of PhD program] were reading.&amp;rdquo; because I wanted to do that same reading. Some courses had syllabi available, some had notes, but it was hard to get a sense of the themes that were being discussed.  I told myself that if I were ever lucky enough to be able enter a PhD program, I&amp;rsquo;d share as much as I could about the material I was reading.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nothing About Us Without Us</title>
       <link>https://nikkistevens.com/posts/2016-08-03-diversity-survey/</link>
       <pubDate>Wed, 03 Aug 2016 00:00:00 +0000</pubDate>
       <guid>https://nikkistevens.com/posts/2016-08-03-diversity-survey/</guid>
-      <description>Nick and I met at Drupalcon New Orleans to discuss doing a survey to get some data about the diversity within the community of people who make the internet. Many such surveys have been done (here two: Slack and New Relic) but we wanted approach everything differently.</description>
+      <description>&lt;p&gt;Nick and I met at &lt;a href=&#34;https://events.drupal.org/neworleans2016&#34;&gt;Drupalcon New Orleans&lt;/a&gt; to discuss doing a survey to get some data about the diversity within the community of people who make the internet.  Many such surveys have been done (here two: &lt;a href=&#34;https://slackhq.com/diversity-and-inclusion-an-update-on-our-data-7af803cedae4#.q80y0d2f0&#34;&gt;Slack&lt;/a&gt; and &lt;a href=&#34;https://blog.newrelic.com/2015/12/18/diversity-inclusion/&#34;&gt;New Relic&lt;/a&gt;) but we wanted approach everything differently. Both of us have a long history of open source involvement and deeply believe in open-source philosophies.  We wanted to do a survey completely in the open, and completely transparently.  We have been guided by the philosophy of “Nothing about us, without us.”&lt;/p&gt;</description>
     </item>
     <item>
       <title>Current quest: finding meaning in programming</title>
       <link>https://nikkistevens.com/posts/finding-meaning/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
       <guid>https://nikkistevens.com/posts/finding-meaning/</guid>
-      <description>At Drupalcon New Orleans, I held a BOF entitled “Keeping it Exciting After All these Years.” It was a small group - seven people, including myself. We discussed some the ways that we find technology work to have transformed from genuine enthusiasm resembling “I can’t believe people pay me to do this!</description>
+      <description>&lt;p&gt;At Drupalcon New Orleans, I held a BOF entitled “Keeping it Exciting After All these Years.”  It was a small group - seven people, including myself. We discussed some the ways that we find technology work to have transformed from genuine enthusiasm resembling “I can’t believe people pay me to do this!” to something akin to drudgery or menial tasks.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Trusting the people in the interview room</title>
       <link>https://nikkistevens.com/posts/trusting-your-hirers/</link>
       <pubDate>Mon, 30 Nov 2015 00:00:00 +0000</pubDate>
       <guid>https://nikkistevens.com/posts/trusting-your-hirers/</guid>
-      <description>Making bad hiring choices I&amp;rsquo;ve been actively interviewing and part of the hiring process for engineers, project managers and product owners for the last 8 years. In that time, I&amp;rsquo;ve probably hired about 30 people (fewer if you exclude long-term contractors) to work with me directly, and been a voice at the table for the hiring of about another 20 people.</description>
+      <description>&lt;h3 id=&#34;making-bad-hiring-choices&#34;&gt;Making bad hiring choices&lt;/h3&gt;
+&lt;p&gt;I&amp;rsquo;ve been actively interviewing and part of the hiring process for engineers, project managers and product owners for the last 8 years.  In that time, I&amp;rsquo;ve probably hired about 30 people (fewer if you exclude long-term contractors) to work with me directly, and been a voice at the table for the hiring of about another 20 people. The majority of the people to whom I&amp;rsquo;ve given jobs have worked out wonderfully and I&amp;rsquo;d be happy to work with nearly all of them again.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Is my company ready for an internal development team?</title>
       <link>https://nikkistevens.com/posts/are-we-ready/</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
       <guid>https://nikkistevens.com/posts/are-we-ready/</guid>
-      <description>Several times in my career, I&amp;rsquo;ve entered companies with the opportunity to &amp;ldquo;build my own team.&amp;rdquo; For whatever reason (and that reason will become important later), the company had been outsourcing all of their web development to an (often offshore) agency.</description>
+      <description>&lt;p&gt;Several times in my career, I&amp;rsquo;ve entered companies with the opportunity to &amp;ldquo;build my own team.&amp;rdquo;  For whatever reason (and that reason will become important later), the company had been outsourcing all of their web development to an (often offshore) agency.  In retrospect, I know now that we should have&lt;/p&gt;</description>
     </item>
     <item>
       <title>$1 per word</title>
       <link>https://nikkistevens.com/posts/words-matter/</link>
       <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
       <guid>https://nikkistevens.com/posts/words-matter/</guid>
-      <description>(Update as of September 2022: Folks it is. I leave these old posts up in the spirit of open source and as an act of transparency &amp;mdash; we are all growing, still, and I can look back at old posts like these and see how my thinking has changed.</description>
+      <description>&lt;p&gt;&lt;em&gt;(Update as of September 2022:  Folks it is.  I leave these old posts up in the spirit of open source and as an act of transparency &amp;mdash; we are all growing, still, and I can look back at old posts like these and see how my thinking has changed.)&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tech In Motion: Women in Tech</title>
@@ -327,21 +446,21 @@ how do measures of open source project success interact with measures of communi
       <link>https://nikkistevens.com/posts/how-dysfunctional-is-my-development-team/</link>
       <pubDate>Wed, 16 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://nikkistevens.com/posts/how-dysfunctional-is-my-development-team/</guid>
-      <description>Next Friday, I&amp;rsquo;ll be presenting at SandCamp on best practices for teams. Naturally, I’ve been thinking about what makes a good team in general, and a good software development team specifically.</description>
+      <description>&lt;p&gt;Next Friday, I&amp;rsquo;ll be presenting at &lt;a href=&#34;http://sandcamp.org&#34;&gt;SandCamp&lt;/a&gt; on &lt;a href=&#34;https://sandcamp.org/best-practices-teams&#34;&gt;best practices for teams&lt;/a&gt;. Naturally, I’ve been thinking about what makes a good team in general, and a good software development team specifically.  For most of my career, I’ve been part of development teams at development shops or technical companies.  Those places already had forward-thinking technical people making infrastructure decisions and crafting the technical culture (for better or worse).  By the time I came along, most of the kinks had been worked out.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Working with caches you can&#39;t control</title>
       <link>https://nikkistevens.com/posts/i-hate-you-cache/</link>
       <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://nikkistevens.com/posts/i-hate-you-cache/</guid>
-      <description>Recently, I worked on a project where the client controlled their production environment. They&amp;rsquo;re using EdgeCast and we didn&amp;rsquo;t have access to force a cache clear when deploying new releases to production.</description>
+      <description>&lt;p&gt;Recently, I worked on a project where the client controlled their production environment.  They&amp;rsquo;re using EdgeCast and we didn&amp;rsquo;t have access to force a cache clear when deploying new releases to production. So we&amp;rsquo;d push, ask them to clear cache, and wait as many as 8 - 10 hours to make sure everything was working fine.  This sucks, but what I didn&amp;rsquo;t expect was that even after they cleared the cache, old files were still being served. So we&amp;rsquo;d ask for another cache clear, and wait. This was as painful as it sounds.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Is my internet back yet?</title>
       <link>https://nikkistevens.com/posts/is-my-internet-back-yet/</link>
       <pubDate>Tue, 11 Dec 2012 00:00:00 +0000</pubDate>
       <guid>https://nikkistevens.com/posts/is-my-internet-back-yet/</guid>
-      <description>One of my favorite things about being a programmer is that I can figure out ways to solve little problems. Little non-problems, even. Over the last week, there have been Time Warner internet outages in my neighborhood.</description>
+      <description>&lt;p&gt;One of my favorite things about being a programmer is that I can figure out ways to solve little problems.  Little non-problems, even.  Over the last week, there have been Time Warner internet outages in my neighborhood.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Setting Language manually in Django 1.4</title>
@@ -355,31 +474,38 @@ how do measures of open source project success interact with measures of communi
       <link>https://nikkistevens.com/posts/tweetsinger-dot-com/</link>
       <pubDate>Sat, 22 Sep 2012 00:00:00 +0000</pubDate>
       <guid>https://nikkistevens.com/posts/tweetsinger-dot-com/</guid>
-      <description>We (LBi US, where I’m a developer) just launched TweetSinger.com, a Sony Mobile campaign site for their new Xperia series phones. This was my first large non-Drupal project in a while and it was fun to get to do something different.</description>
+      <description>&lt;p&gt;We (LBi US, where I’m a developer) just launched TweetSinger.com, a Sony
+Mobile campaign site for their new Xperia series phones. This was my
+first large non-Drupal project in a while and it was fun to get to do
+something different.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The only ____ in the room</title>
       <link>https://nikkistevens.com/posts/the-only-one/</link>
       <pubDate>Fri, 06 Jul 2012 00:00:00 +0000</pubDate>
       <guid>https://nikkistevens.com/posts/the-only-one/</guid>
-      <description>Update: Just so it doesn&amp;rsquo;t get lost, there is also this post on g.d.o:
-During introductions at last night&amp;rsquo;s New York City Drupal User Group (NYCDUG) meetup, each person said a variation of &amp;ldquo;Hi my name is _____.</description>
+      <description>&lt;p&gt;&lt;strong&gt;Update:&lt;/strong&gt; Just so it doesn&amp;rsquo;t get lost, there is also &lt;a href=&#34;http://groups.drupal.org/node/237188&#34;&gt;this post&lt;/a&gt; on g.d.o:&lt;/p&gt;
+&lt;p&gt;During introductions at last night&amp;rsquo;s New York City Drupal User Group (NYCDUG) meetup, each person said a variation of &amp;ldquo;Hi my name is _____. My drupal.org name is ______. I&amp;rsquo;m a __________ at _________.&amp;rdquo; Some included how long they&amp;rsquo;d been working with drupal, usually because it had only been a few months. It&amp;rsquo;s a nice thing to share because it reminds the rest of us to make sure we&amp;rsquo;re not leaving anyone out when we casually mention advanced concepts. I think the community is pretty good at embracing the tentative and uncertain beginners and making them feel included.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Testing with Selenium</title>
       <link>https://nikkistevens.com/posts/testing-with-selenium/</link>
       <pubDate>Sat, 10 Dec 2011 00:00:00 +0000</pubDate>
       <guid>https://nikkistevens.com/posts/testing-with-selenium/</guid>
-      <description>In case you missed my presentation this afternoon, you can get slides, see tests, read notes and etc. etc at https://github.com/drnikki/Drupal-Camp-NYC-10
-If you were in my presentation and had a question we didn’t cover, check out the README.</description>
+      <description>&lt;p&gt;In case you missed my presentation this afternoon, you can get slides,
+see tests, read notes and etc. etc at
+&lt;a href=&#34;https://github.com/drnikki/Drupal-Camp-NYC-10&#34;&gt;https://github.com/drnikki/Drupal-Camp-NYC-10&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you were in my presentation and had a question we didn’t cover, check
+out the README.txt.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Grassroots Feminist Organizing</title>
       <link>https://nikkistevens.com/posts/grassroots-organizing/</link>
       <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
       <guid>https://nikkistevens.com/posts/grassroots-organizing/</guid>
-      <description>(October 12, 2017) What follows is my thesis from the University of Hawai`i. It&amp;rsquo;s included here for anyone interested in grassroots activist organizing and its impact on the participants.
-Reading this over, it feels like I wrote it 20 years and 100 books ago, and I&amp;rsquo;m thankful that my opinions and insight have evolved (for better or worse) since I wrote this.</description>
+      <description>&lt;p&gt;(October 12, 2017)
+What follows is my thesis from the University of Hawai`i.  It&amp;rsquo;s included here for anyone interested in grassroots activist organizing and its impact on the participants.&lt;/p&gt;
+&lt;p&gt;Reading this over, it feels like I wrote it 20 years and 100 books ago, and I&amp;rsquo;m thankful that my opinions and insight have evolved (for better or worse) since I wrote this.  I believe that it&amp;rsquo;s important to practice openness wherever possible, and am publishing this in that spirit.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

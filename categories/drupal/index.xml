@@ -18,8 +18,11 @@
       <link>https://nikkistevens.com/posts/testing-with-selenium/</link>
       <pubDate>Sat, 10 Dec 2011 00:00:00 +0000</pubDate>
       <guid>https://nikkistevens.com/posts/testing-with-selenium/</guid>
-      <description>In case you missed my presentation this afternoon, you can get slides, see tests, read notes and etc. etc at https://github.com/drnikki/Drupal-Camp-NYC-10
-If you were in my presentation and had a question we didn’t cover, check out the README.</description>
+      <description>&lt;p&gt;In case you missed my presentation this afternoon, you can get slides,
+see tests, read notes and etc. etc at
+&lt;a href=&#34;https://github.com/drnikki/Drupal-Camp-NYC-10&#34;&gt;https://github.com/drnikki/Drupal-Camp-NYC-10&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you were in my presentation and had a question we didn’t cover, check
+out the README.txt.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
