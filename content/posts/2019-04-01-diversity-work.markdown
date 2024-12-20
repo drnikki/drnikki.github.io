@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Diversity work"
-date: 2019-02-01
+publishDate: 2019-02-01
 comments: true
 published: false
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Contribution metrics as measure of inequality"
-date: 2018-06-01
+publishDate: 2018-06-01
 comments: true
 published: false
 tags:

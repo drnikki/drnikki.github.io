@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nothing About Us Without Us"
-date: 2016-08-03
+publishDate: 2016-08-03
 comments: false
 published: true
 ---
