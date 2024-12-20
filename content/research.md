@@ -33,13 +33,13 @@ The most well-developed example of these methods in practice is in my dissertati
 You can also read my other work (PDFs linked below):
 
 
-Stevens, Nikki L., Anna Lauren Hoffman, Sarah Florini. [“The Unremarked Optimum: Whiteness, Optimization, and Control in The Database Revolution.”]({{< static url="unremarked-optimum.pdf" >}}) Review of Communication. June 2021.
+Stevens, Nikko L., Anna Lauren Hoffman, Sarah Florini. [“The Unremarked Optimum: Whiteness, Optimization, and Control in The Database Revolution.”]({{< static url="unremarked-optimum.pdf" >}}) Review of Communication. June 2021.
 
-Stevens, Nikki L. and Os Keyes. [“The Domestication of Facial Recognition Technology.”]({{< static url="seeing-infrastructure.pdf" >}}) Cultural Studies. March 2021
+Stevens, Nikko L. and Os Keyes. [“The Domestication of Facial Recognition Technology.”]({{< static url="seeing-infrastructure.pdf" >}}) Cultural Studies. March 2021
 
-Stevens, Nikki L. [“Dataset Failures and Intersectional Data.”]({{< static url="dataset-failures.pdf" >}}) Journal of Cultural Analytics. March 2019.
+Stevens, Nikko L. [“Dataset Failures and Intersectional Data.”]({{< static url="dataset-failures.pdf" >}}) Journal of Cultural Analytics. March 2019.
 
-Stevens, Nikki L. and Jacqueline Wernimont. [“Seeing 21st Century Data Bleed through the 15th Century Wound Man.”]({{< static url="Stevens_IEEE.pdf" >}}) IEEE Technology and Society. December 2018
+Stevens, Nikko L. and Jacqueline Wernimont. [“Seeing 21st Century Data Bleed through the 15th Century Wound Man.”]({{< static url="Stevens_IEEE.pdf" >}}) IEEE Technology and Society. December 2018
 
 ## A note about community and context
 
