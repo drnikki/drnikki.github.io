@@ -1,6 +1,6 @@
 ---
 title: "TexasCamp 2018 Keynote"
-date: 2018-06-01
+publishDate: 2018-06-01
 published: true
 categories: conferences
 ---

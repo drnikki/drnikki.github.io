@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Recruiting engineers with your startup's developer blog."
-date: 2013-03-12
+publishDate: 2013-03-12
 comments: true
 keywords: startups, recruiting, engineering, developer blog, dev blog
 description: How to write a good developer blog for startups

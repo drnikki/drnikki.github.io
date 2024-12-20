@@ -1,6 +1,6 @@
 ---
 title: "Tech In Motion: Women in Tech"
-date: 2013-03-22 
+publishDate: 2013-03-22 
 description: A recap of the Women in Tech panel at the Tech in Motion meetup.
 published: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Code != Poetry"
-publishDate: 2018-06-20 10:25
+publishDate: 2018-06-20
 comments: true
 published: false
 categories: [critical-code-studies, programming]

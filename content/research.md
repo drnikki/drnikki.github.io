@@ -1,6 +1,6 @@
 ---
 title: "Research"
-date: 2024-02-10
+publishDate: 2024-02-10
 published: true
 ---
 

@@ -84,6 +84,7 @@ params:
   # homeInfoParams:
   #   Title: "Hi there \U0001F44B"
   #   Content: Welcome to my blog
+  social: true # https://github.com/adityatelange/hugo-PaperMod/issues/1573
 
   socialIcons:
     - name: twitter

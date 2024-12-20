@@ -1,6 +1,6 @@
 ---
 title: "DrupalCon 2020: Slides and Resources"
-date: 2020-07-15
+publishDate: 2020-07-15
 published: true
 ---
 

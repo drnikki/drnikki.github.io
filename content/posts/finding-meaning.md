@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Current quest: finding meaning in programming"
-date: 2016-06-01
+publishDate: 2016-06-01
 published: true
 ---
 
