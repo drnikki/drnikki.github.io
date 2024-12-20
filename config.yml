@@ -1,6 +1,6 @@
 baseURL: 'http://nikkistevens.com/'
 languageCode: en-us
-title: Dr. Nikki Stevens
+title: Dr. Nikko Stevens
 theme: PaperMod
 enableEmoji: true
 
@@ -22,11 +22,11 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Dr. Nikki Stevens
-  description: "Dr. Nikki Stevens is a technology researcher, (open source) software engineer, and community member."
+  title: Dr. Nikko Stevens
+  description: "Dr. Nikko Stevens is a technology researcher and award-winning (open source) software engineer."
   keywords: [Blog, Portfolio]
-  copyright: "&copy; 2024 Nikki Stevens"
-  author: Dr. Nikki Stevens
+  copyright: "&copy; 2024 Nikko Stevens"
+  author: Dr. Nikko Stevens
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
 
@@ -61,7 +61,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Dr. Nikki Stevens"
+    text: "Dr. Nikko Stevens"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
