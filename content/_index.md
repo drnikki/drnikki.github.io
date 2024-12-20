@@ -1,11 +1,11 @@
 ---
-date: 2024-01-18
+publishDate: 2024-01-18
 published: true
 title: Hi!
 ---
 
 
-Hi! 👋 I'm Dr. Nikki Stevens - a technology researcher, software engineer, and open source community member.  Here's what I'm up to right now:
+Hi! 👋 I'm Dr. NikkoStevens - a technology researcher, software engineer, and open source community member.  Here's what I'm up to right now:
 
 <h3>🏢 Work</h3>
 
